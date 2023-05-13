@@ -16,7 +16,7 @@
 2. Open terminal and go inside folder Data_Desafio
 
 ~~~
-git clone -b develop https://github.com/IgnacioGB1990/Data_Desafio.git
+git clone https://github.com/IgnacioGB1990/Data_Desafio.git
 ~~~
 
 3. Create your own branch and move to it:
