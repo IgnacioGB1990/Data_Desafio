@@ -35,7 +35,7 @@ git commit -m "my_name added github url"
 ~~~
 
 ~~~
-git push --set-upstream origin "my_name"
+git push --set-upstream origin my_name
 ~~~
 
 
