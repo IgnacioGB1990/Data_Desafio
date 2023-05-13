@@ -38,7 +38,7 @@ git commit -m "my_name added github url"
 git push --set-upstream origin my_name
 ~~~
 
-## Push changes to develop in order to see ALL changes done in one branch (develop):
+## Push changes to develop in order to see ALL changes at once in one branch (develop):
 
 1. Push changes from your branch
 2. Go to GitHub
