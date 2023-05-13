@@ -25,7 +25,7 @@ git checkout -b my_name
 ~~~
 
 
-4. Create folder with your name **inside folder members** and add readme.md with your github url (see my example)
+4. Create folder with your name inside folder **members** and add readme.md with your github url (see my example)
 ~~~
 git add .
 ~~~
