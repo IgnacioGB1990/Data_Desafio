@@ -40,12 +40,13 @@ git push --set-upstream origin my_name
 
 ## Push changes to develop in order to see ALL changes at once in one branch (develop):
 
-1. Push changes from your branch
+1. Push changes from your branch in your terminal
 2. Go to GitHub
-3. Contribute
-4. Open Pull Request
-5. Create Pull Request
-6. Merge Pull Request to "develop" branch (default)
+3. Select your branch
+4. Contribute
+5. Open Pull Request
+6. Create Pull Request
+7. Merge Pull Request to "develop" branch (default)
 
 ## Members:
 
