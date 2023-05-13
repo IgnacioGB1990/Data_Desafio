@@ -12,3 +12,12 @@
 
 
 
+## Members:
+
+* Noya
+* Daiana
+* Sebas
+* Jimena
+* Daniel
+* Tony
+* Nacho
