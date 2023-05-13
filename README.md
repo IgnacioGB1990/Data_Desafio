@@ -21,7 +21,7 @@ git clone -b develop https://github.com/IgnacioGB1990/Data_Desafio.git
 
 3. Create your own branch and move to it:
 ~~~
-git checkout -b **my_name**
+git checkout -b my_name
 ~~~
 
 
