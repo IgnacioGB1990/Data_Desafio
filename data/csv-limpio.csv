@@ -1,0 +1,742 @@
+,Edad,Individuos_Hogar,Provincia,Tema_Interes,Tiempo_Ducha,Frecuencia_lavadora,Frecuencia_lavavajillas,Modo_ECO,Reciclar_agua,Reciclar_material,Consumo_carne,km_coche,Gasto_mascotas,m2_jardin,Consumo_agua_€
+0,Entre 36 y 65 años,3.0,Segovia,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+1,Entre 18 y 35 años,3.0,Segovia,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Ni idea!
+2,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,100 - 200 km,Menos de 50 €,0,Entre 10€ y 40 €
+3,Entre 36 y 65 años,3.0,Segovia,Ahorrar dinero,Más de 15 minutos,Más de 5,1 vez al día,A veces,Si,A veces,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+4,Entre 18 y 35 años,2.0,Segovia,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Más de 200 km,Más de 100 €,0,Entre 10€ y 40 €
+5,Entre 36 y 65 años,4.0,Asturias,Conocer mi huella hídrica,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+6,Entre 36 y 65 años,2.0,Segovia,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,Si,Siempre,1 vez cada 3 días,100 - 200 km,Menos de 50 €,50,Menos de 10 €
+7,Entre 36 y 65 años,4.0,Asturias,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,Nunca!,1 vez cada 3 días,Menos de 100 km,No tengo mascota,20,Entre 10€ y 40 €
+8,Entre 36 y 65 años,1.0,Segovia,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Menos de 10 €
+9,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Menos de 10 €
+10,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez a la semana,No uso coche,Entre 50 y 100 €,0,Ni idea!
+11,Entre 18 y 35 años,2.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,Si,Siempre,1 vez al día,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+12,Entre 18 y 35 años,2.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,A veces,No,Siempre,Nunca!,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+13,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,15,Entre 10€ y 40 €
+14,Entre 18 y 35 años,2.0,Segovia,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Friego a mano,No sabía que existía ese modo,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Ni idea!
+15,Entre 18 y 35 años,2.0,Baleares,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,10,Ni idea!
+16,Entre 36 y 65 años,2.0,Guadalajara,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,A veces,Si,Siempre,1 vez cada 3 días,No uso coche,Entre 50 y 100 €,0,Entre 10€ y 40 €
+17,Entre 36 y 65 años,4.0,Madrid,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,100 - 200 km,No tengo mascota,9,Ni idea!
+18,Entre 18 y 35 años,3.0,Madrid,Ahorrar dinero,Entre 11 y 15 minutos,Entre 3 y 5 veces,Friego a mano,A veces,No,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Ni idea!
+19,Entre 36 y 65 años,7.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Más de 5,1 vez al día,Siempre,No,A veces,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+20,Entre 18 y 35 años,3.0,Madrid,Ahorrar dinero,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Ni idea!
+21,Entre 36 y 65 años,3.0,Segovia,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,Siempre,1 vez al día,Más de 200 km,Entre 50 y 100 €,0,Ni idea!
+22,Entre 36 y 65 años,2.0,Segovia,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Ni idea!
+23,Entre 36 y 65 años,4.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Entre 3 y 5 veces,Friego a mano,Siempre,Si,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Más de 40 €
+24,Entre 36 y 65 años,2.0,Valencia,Ahorrar dinero,Menos de 5 minutos,Menos de 3 veces,Friego a mano,A veces,Si,A veces,1 vez a la semana,Más de 200 km,Menos de 50 €,0,Ni idea!
+25,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez cada 3 días,Más de 200 km,No tengo mascota,0,Entre 10€ y 40 €
+26,Entre 36 y 65 años,2.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+27,Entre 18 y 35 años,2.0,Segovia,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Menos de 10 €
+28,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez al día,No uso coche,Entre 50 y 100 €,0,Ni idea!
+29,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez cada 3 días,100 - 200 km,Entre 50 y 100 €,1500,Más de 40 €
+30,Entre 18 y 35 años,3.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+31,Entre 18 y 35 años,1.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+32,Entre 18 y 35 años,2.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Nunca!,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+33,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Menos de 10 €
+34,Mayor de 65 años,3.0,Segovia,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez a la semana,100 - 200 km,Entre 50 y 100 €,2000,Entre 10€ y 40 €
+35,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Más de 5,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+36,Entre 36 y 65 años,4.0,León,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,A veces,No,Siempre,1 vez al día,Menos de 100 km,Menos de 50 €,100,Entre 10€ y 40 €
+37,Entre 18 y 35 años,5.0,Toledo,Ahorrar agua,Entre 11 y 15 minutos,Entre 3 y 5 veces,Friego a mano,A veces,Buena idea! Voy a probarlo!,A veces,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+38,Mayor de 65 años,3.0,Burgos,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,Si,A veces,1 vez al día,100 - 200 km,Menos de 50 €,45,Entre 10€ y 40 €
+39,Entre 18 y 35 años,5.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,Siempre,1 vez al día,No uso coche,Menos de 50 €,400,Ni idea!
+40,Entre 36 y 65 años,4.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,25,Entre 10€ y 40 €
+41,Entre 18 y 35 años,4.0,Madrid,Conocer mi huella hídrica,Más de 15 minutos,Menos de 3 veces,1 vez al día,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,Entre 50 y 100 €,1000,Ni idea!
+42,Mayor de 65 años,2.0,Segovia,Conocer mi huella hídrica,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,Siempre,Nunca!,No uso coche,Menos de 50 €,200,Menos de 10 €
+43,Entre 36 y 65 años,2.0,Badajoz,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez a la semana,100 - 200 km,No tengo mascota,2,Ni idea!
+44,Entre 36 y 65 años,3.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+45,Entre 18 y 35 años,2.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Ni idea!
+46,Entre 18 y 35 años,1.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,A veces,No,Siempre,1 vez al día,Más de 200 km,No tengo mascota,0,Entre 10€ y 40 €
+47,Mayor de 65 años,10.0,Zamora,Ahorrar dinero,Más de 15 minutos,Más de 5,Friego a mano,No sabía que existía ese modo,No,Nunca!,1 vez al día,Más de 200 km,Más de 100 €,288,Más de 40 €
+48,Entre 18 y 35 años,3.0,A Coruña,Ayudar al ecosistema,Entre 11 y 15 minutos,Entre 3 y 5 veces,1 vez al día,No sabía que existía ese modo,No,Nunca!,Nunca!,No uso coche,Menos de 50 €,10,Ni idea!
+49,Entre 36 y 65 años,4.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+50,Entre 36 y 65 años,2.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez a la semana,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+51,Entre 18 y 35 años,4.0,La Rioja,Ahorrar dinero,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Nunca!,1 vez al día,No uso coche,Menos de 50 €,0,Ni idea!
+52,Entre 36 y 65 años,6.0,Cantabria,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+53,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,Siempre,Nunca!,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+54,Entre 18 y 35 años,3.0,Álava,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,No sabía que existía ese modo,No,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Ni idea!
+55,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez a la semana,100 - 200 km,No tengo mascota,75,Más de 40 €
+56,Entre 18 y 35 años,3.0,Segovia,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,A veces,No,Siempre,1 vez cada 3 días,100 - 200 km,Menos de 50 €,4,Entre 10€ y 40 €
+57,Entre 36 y 65 años,5.0,León,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,1 vez al día,A veces,No,Siempre,1 vez al día,100 - 200 km,Menos de 50 €,150,Entre 10€ y 40 €
+58,Entre 36 y 65 años,4.0,Toledo,Ahorrar dinero,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez cada 3 días,Más de 200 km,No tengo mascota,0,Entre 10€ y 40 €
+59,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+60,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,Friego a mano,Siempre,Buena idea! Voy a probarlo!,A veces,1 vez cada 3 días,Menos de 100 km,No tengo mascota,2,Entre 10€ y 40 €
+61,Entre 36 y 65 años,4.0,Madrid,Ahorrar dinero,Menos de 5 minutos,Más de 5,1 vez al día,Siempre,No,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+62,Entre 36 y 65 años,3.0,Vizcaya,Conocer mi huella hídrica,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,A veces,No,Siempre,1 vez al día,Menos de 100 km,Menos de 50 €,0,Ni idea!
+63,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+64,Entre 36 y 65 años,1.0,Madrid,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,No,A veces,1 vez a la semana,100 - 200 km,Entre 50 y 100 €,0,Entre 10€ y 40 €
+65,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,No uso coche,Más de 100 €,0,Menos de 10 €
+66,Entre 36 y 65 años,4.0,Segovia,Conocer mi huella hídrica,Menos de 5 minutos,Menos de 3 veces,1 vez al día,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Menos de 10 €
+67,Entre 36 y 65 años,3.0,Navarra,Conocer mi huella hídrica,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Más de 40 €
+68,Entre 18 y 35 años,4.0,A Coruña,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,Buena idea! Voy a probarlo!,Siempre,1 vez al día,No uso coche,Menos de 50 €,0,Ni idea!
+69,Entre 36 y 65 años,5.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez cada 3 días,Más de 200 km,Menos de 50 €,500,Entre 10€ y 40 €
+70,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Más de 5,1 vez al día,Siempre,Buena idea! Voy a probarlo!,A veces,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+71,Entre 36 y 65 años,2.0,Madrid,Ahorrar dinero,Menos de 5 minutos,Más de 5,Friego a mano,A veces,Si,Siempre,1 vez a la semana,No uso coche,Más de 100 €,0,Más de 40 €
+72,Entre 18 y 35 años,2.0,Huelva,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,A veces,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+73,Entre 18 y 35 años,2.0,Segovia,Ayudar al ecosistema,Entre 11 y 15 minutos,Menos de 3 veces,1 vez al día,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez a la semana,Menos de 100 km,Menos de 50 €,0,Más de 40 €
+74,Entre 36 y 65 años,8.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Más de 5,1 vez al día,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez al día,Más de 200 km,No tengo mascota,700,Más de 40 €
+75,Entre 18 y 35 años,6.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Más de 5,1 vez al día,A veces,No,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Más de 40 €
+76,Menor de 18 años,4.0,Murcia,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,A veces,1 vez al día,No uso coche,No tengo mascota,0,Ni idea!
+77,Entre 36 y 65 años,5.0,Zaragoza,Ahorrar agua,Entre 5 y 10 minutos,Más de 5,1 vez al día,Siempre,Si,Siempre,1 vez al día,Más de 200 km,Menos de 50 €,80,Más de 40 €
+78,Entre 36 y 65 años,2.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,No,A veces,Nunca!,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+79,Entre 36 y 65 años,7.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Más de 5,1 vez al día,A veces,No,A veces,1 vez al día,100 - 200 km,No tengo mascota,0,Ni idea!
+80,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez a la semana,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+81,Mayor de 65 años,2.0,La Rioja,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+82,Entre 36 y 65 años,6.0,Madrid,Ahorrar agua,Menos de 5 minutos,Más de 5,1 vez al día,Siempre,No,Siempre,1 vez al día,100 - 200 km,No tengo mascota,400,Más de 40 €
+83,Entre 36 y 65 años,5.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Más de 40 €
+84,Entre 18 y 35 años,1.0,Segovia,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,A veces,Nunca!,Menos de 100 km,Entre 50 y 100 €,200,Ni idea!
+85,Entre 36 y 65 años,1.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+86,Entre 18 y 35 años,3.0,Barcelona,Ahorrar dinero,Entre 11 y 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Nunca!,1 vez al día,Menos de 100 km,Menos de 50 €,0,Más de 40 €
+87,Entre 36 y 65 años,3.0,Segovia,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,No sabía que existía ese modo,Si,Siempre,1 vez a la semana,100 - 200 km,Menos de 50 €,0,Ni idea!
+88,Entre 36 y 65 años,1.0,A Coruña,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,No,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+89,Entre 18 y 35 años,2.0,Segovia,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez al día,Más de 200 km,No tengo mascota,0,Menos de 10 €
+90,Entre 36 y 65 años,2.0,Málaga,Conocer mi huella hídrica,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez a la semana,100 - 200 km,No tengo mascota,6,Entre 10€ y 40 €
+91,Entre 36 y 65 años,2.0,Asturias,Ayudar al ecosistema,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+92,Entre 18 y 35 años,3.0,Madrid,Conocer mi huella hídrica,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,A veces,Si,Siempre,Nunca!,Más de 200 km,Menos de 50 €,0,Ni idea!
+93,Entre 18 y 35 años,5.0,Málaga,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,Siempre,1 vez al día,No uso coche,Entre 50 y 100 €,0,Más de 40 €
+94,Entre 36 y 65 años,5.0,Segovia,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,1 vez al día,Siempre,Si,Siempre,1 vez al día,100 - 200 km,Menos de 50 €,50,Ni idea!
+95,Entre 18 y 35 años,4.0,Madrid,Ahorrar dinero,Entre 11 y 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,A veces,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+96,Entre 36 y 65 años,4.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+97,Entre 18 y 35 años,5.0,Segovia,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,Siempre,Nunca!,No uso coche,No tengo mascota,0,Ni idea!
+98,Entre 36 y 65 años,5.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,150,Entre 10€ y 40 €
+99,Entre 18 y 35 años,2.0,Segovia,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,No,Siempre,1 vez a la semana,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+100,Entre 36 y 65 años,1.0,Palencia,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,Siempre,1 vez a la semana,No uso coche,No tengo mascota,0,Menos de 10 €
+101,Entre 18 y 35 años,2.0,Segovia,Conocer mi huella hídrica,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez al día,Más de 200 km,No tengo mascota,5,Ni idea!
+102,Entre 36 y 65 años,3.0,Segovia,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,1 vez al día,Siempre,Si,A veces,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+103,Entre 36 y 65 años,1.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez a la semana,Más de 200 km,No tengo mascota,0,Entre 10€ y 40 €
+104,Entre 36 y 65 años,2.0,Segovia,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez al día,100 - 200 km,Menos de 50 €,30,Entre 10€ y 40 €
+105,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Menos de 10 €
+106,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,300,Más de 40 €
+107,Entre 36 y 65 años,4.0,Madrid,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,Si,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+108,Entre 18 y 35 años,4.0,Navarra,Ahorrar dinero,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Ni idea!
+109,Entre 18 y 35 años,2.0,Madrid,Ahorrar dinero,Más de 15 minutos,Más de 5,Entre 3 y 5 a la semana,No sabía que existía ese modo,No,Nunca!,1 vez al día,Más de 200 km,No tengo mascota,500,Ni idea!
+110,Entre 36 y 65 años,5.0,Madrid,Conocer mi huella hídrica,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,No,Nunca!,1 vez a la semana,Más de 200 km,No tengo mascota,0,Más de 40 €
+111,Entre 36 y 65 años,1.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,A veces,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+112,Entre 36 y 65 años,6.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Más de 5,1 vez al día,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,140,Entre 10€ y 40 €
+113,Entre 18 y 35 años,3.0,Málaga,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,A veces,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+114,Entre 18 y 35 años,3.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,Siempre,Nunca!,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+115,Entre 36 y 65 años,4.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,10,Entre 10€ y 40 €
+116,Entre 36 y 65 años,6.0,Madrid,Conocer mi huella hídrica,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,No,Nunca!,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+117,Entre 36 y 65 años,1.0,Segovia,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,A veces,No,A veces,1 vez cada 3 días,No uso coche,Entre 50 y 100 €,0,Ni idea!
+118,Mayor de 65 años,2.0,Segovia,Conocer mi huella hídrica,Entre 5 y 10 minutos,Menos de 3 veces,1 vez al día,A veces,No,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,1800,Entre 10€ y 40 €
+119,Entre 18 y 35 años,4.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez al día,100 - 200 km,No tengo mascota,0,Ni idea!
+120,Entre 18 y 35 años,4.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Ni idea!
+121,Entre 36 y 65 años,4.0,Cádiz,Ayudar al ecosistema,Entre 5 y 10 minutos,Más de 5,1 vez al día,Siempre,Si,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+122,Entre 18 y 35 años,2.0,Segovia,Conocer mi huella hídrica,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Menos de 100 km,Entre 50 y 100 €,2,Entre 10€ y 40 €
+123,Mayor de 65 años,2.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+124,Mayor de 65 años,3.0,Valladolid,Ahorrar agua,Menos de 5 minutos,Más de 5,1 vez al día,No sabía que existía ese modo,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+125,Entre 36 y 65 años,1.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,A veces,No,Siempre,1 vez al día,Más de 200 km,Entre 50 y 100 €,470,Entre 10€ y 40 €
+126,Mayor de 65 años,2.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Ni idea!
+127,Entre 18 y 35 años,3.0,Madrid,Ayudar al ecosistema,Entre 11 y 15 minutos,Más de 5,1 vez al día,Siempre,Si,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+128,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,No,Siempre,1 vez cada 3 días,No uso coche,Menos de 50 €,0,Entre 10€ y 40 €
+129,Entre 18 y 35 años,3.0,A Coruña,Ayudar al ecosistema,Entre 11 y 15 minutos,Entre 3 y 5 veces,Friego a mano,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+130,Entre 36 y 65 años,4.0,Segovia,Ahorrar agua,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,Siempre,Buena idea! Voy a probarlo!,A veces,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+131,Entre 18 y 35 años,4.0,Segovia,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,1 vez al día,A veces,Si,Siempre,1 vez cada 3 días,No uso coche,Menos de 50 €,30,Entre 10€ y 40 €
+132,Entre 36 y 65 años,4.0,Segovia,Ayudar al ecosistema,Menos de 5 minutos,Más de 5,1 vez al día,A veces,Si,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,35,Menos de 10 €
+133,Entre 18 y 35 años,4.0,Madrid,Ahorrar dinero,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,A veces,Si,Nunca!,1 vez cada 3 días,No uso coche,No tengo mascota,0,Ni idea!
+134,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Más de 5,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+135,Entre 18 y 35 años,3.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Friego a mano,A veces,No,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Ni idea!
+136,Entre 36 y 65 años,5.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,No,Siempre,1 vez cada 3 días,100 - 200 km,Menos de 50 €,0,Ni idea!
+137,Entre 36 y 65 años,1.0,Madrid,Ahorrar agua,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,A veces,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+138,Entre 18 y 35 años,2.0,Segovia,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,Siempre,1 vez cada 3 días,No uso coche,Entre 50 y 100 €,0,Ni idea!
+139,Entre 36 y 65 años,5.0,Badajoz,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,15,Entre 10€ y 40 €
+140,Entre 36 y 65 años,4.0,Málaga,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez al día,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+141,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,A veces,Si,Siempre,Nunca!,No uso coche,Entre 50 y 100 €,0,Más de 40 €
+142,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+143,Entre 36 y 65 años,4.0,Madrid,Ahorrar agua,Entre 11 y 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,100 - 200 km,Menos de 50 €,0,Ni idea!
+144,Entre 18 y 35 años,3.0,Ávila,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,A veces,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+145,Entre 36 y 65 años,2.0,Segovia,Ahorrar agua,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,A veces,Buena idea! Voy a probarlo!,A veces,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Ni idea!
+146,Entre 36 y 65 años,2.0,Segovia,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Menos de 10 €
+147,Entre 36 y 65 años,1.0,Segovia,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,A veces,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+148,Entre 36 y 65 años,1.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+149,Entre 18 y 35 años,3.0,Madrid,Ayudar al ecosistema,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+150,Entre 36 y 65 años,4.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,A veces,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+151,Entre 18 y 35 años,2.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez cada 3 días,Menos de 100 km,Entre 50 y 100 €,0,Más de 40 €
+152,Entre 18 y 35 años,4.0,Segovia,Ahorrar dinero,Menos de 5 minutos,Menos de 3 veces,1 vez al día,Siempre,No,Siempre,1 vez cada 3 días,No uso coche,Menos de 50 €,0,Entre 10€ y 40 €
+153,Entre 18 y 35 años,4.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,1 vez al día,Siempre,Si,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+154,Entre 18 y 35 años,2.0,Madrid,Conocer mi huella hídrica,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+155,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Más de 40 €
+156,Entre 18 y 35 años,2.0,Segovia,Ahorrar agua,Más de 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,A veces,1 vez al día,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+157,Mayor de 65 años,3.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+158,Menor de 18 años,3.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez al día,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+159,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,1 vez al día,Siempre,No,Siempre,1 vez a la semana,No uso coche,Entre 50 y 100 €,0,Entre 10€ y 40 €
+160,Mayor de 65 años,2.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,A veces,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+161,Entre 36 y 65 años,3.0,Segovia,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,Si,A veces,1 vez al día,Más de 200 km,Menos de 50 €,0,Más de 40 €
+162,Entre 18 y 35 años,3.0,Madrid,Ayudar al ecosistema,Entre 11 y 15 minutos,Más de 5,Friego a mano,No sabía que existía ese modo,No,A veces,1 vez cada 3 días,Más de 200 km,No tengo mascota,0,Entre 10€ y 40 €
+163,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,Entre 50 y 100 €,100,Entre 10€ y 40 €
+164,Mayor de 65 años,4.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,A veces,1 vez al día,Menos de 100 km,No tengo mascota,0,Más de 40 €
+165,Entre 18 y 35 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,1 vez al día,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+166,Entre 36 y 65 años,3.0,Segovia,Conocer mi huella hídrica,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Más de 40 €
+167,Entre 18 y 35 años,3.0,Madrid,Ahorrar dinero,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,Nunca!,1 vez al día,No uso coche,No tengo mascota,100,Más de 40 €
+168,Entre 36 y 65 años,2.0,Segovia,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,22,Ni idea!
+169,Entre 18 y 35 años,6.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Más de 5,1 vez al día,A veces,No,Siempre,1 vez al día,Más de 200 km,Menos de 50 €,20,Ni idea!
+170,Entre 36 y 65 años,5.0,Madrid,Ahorrar dinero,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,A veces,No,Siempre,1 vez cada 3 días,100 - 200 km,No tengo mascota,300,Más de 40 €
+171,Entre 18 y 35 años,6.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Más de 5,1 vez al día,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Más de 200 km,Entre 50 y 100 €,12,Entre 10€ y 40 €
+172,Entre 18 y 35 años,5.0,Pontevedra,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,No sabía que existía ese modo,No,Nunca!,1 vez a la semana,No uso coche,No tengo mascota,0,Ni idea!
+173,Entre 36 y 65 años,2.0,Segovia,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,40,Entre 10€ y 40 €
+174,Entre 36 y 65 años,4.0,Madrid,Conocer mi huella hídrica,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,Siempre,Si,A veces,1 vez al día,Menos de 100 km,No tengo mascota,0,Más de 40 €
+175,Entre 18 y 35 años,3.0,Madrid,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez al día,Más de 200 km,No tengo mascota,0,Entre 10€ y 40 €
+176,Entre 18 y 35 años,3.0,Sevilla,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,A veces,No,A veces,1 vez cada 3 días,No uso coche,No tengo mascota,0,Ni idea!
+177,Entre 36 y 65 años,3.0,Segovia,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,A veces,1 vez cada 3 días,Menos de 100 km,Más de 100 €,0,Ni idea!
+178,Entre 36 y 65 años,3.0,Asturias,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez a la semana,Menos de 100 km,Menos de 50 €,30,Entre 10€ y 40 €
+179,Entre 36 y 65 años,2.0,Segovia,Ahorrar dinero,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+180,Entre 18 y 35 años,3.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,No,A veces,1 vez cada 3 días,100 - 200 km,Menos de 50 €,0,Ni idea!
+181,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,No uso coche,Menos de 50 €,25,Más de 40 €
+182,Entre 18 y 35 años,3.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,A veces,Si,A veces,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+183,Entre 18 y 35 años,4.0,Málaga,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,10,Menos de 10 €
+184,Entre 18 y 35 años,4.0,Segovia,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,A veces,No,A veces,1 vez al día,Más de 200 km,No tengo mascota,0,Ni idea!
+185,Entre 36 y 65 años,4.0,Zaragoza,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,A veces,No,Siempre,1 vez al día,100 - 200 km,No tengo mascota,0,Ni idea!
+186,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Friego a mano,A veces,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+187,Entre 36 y 65 años,2.0,Segovia,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Nunca!,1 vez al día,Más de 200 km,Menos de 50 €,80,Ni idea!
+188,Entre 36 y 65 años,4.0,Murcia,Ayudar al ecosistema,Entre 5 y 10 minutos,Más de 5,Entre 3 y 5 a la semana,Siempre,No,A veces,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Más de 40 €
+189,Entre 36 y 65 años,1.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez a la semana,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+190,Mayor de 65 años,4.0,Jaén,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez a la semana,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+191,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+192,Entre 36 y 65 años,2.0,Asturias,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,Siempre,No,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Ni idea!
+193,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez a la semana,No uso coche,Entre 50 y 100 €,0,Entre 10€ y 40 €
+194,Entre 18 y 35 años,7.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Más de 5,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+195,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+196,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+197,Entre 36 y 65 años,4.0,Madrid,Ahorrar dinero,Entre 11 y 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+198,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+199,Mayor de 65 años,2.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+200,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Ni idea!
+201,Entre 36 y 65 años,5.0,Madrid,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,10,Más de 40 €
+202,Entre 36 y 65 años,4.0,Zaragoza,Ahorrar agua,Entre 5 y 10 minutos,Más de 5,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+203,Entre 18 y 35 años,3.0,Madrid,Ahorrar dinero,Entre 11 y 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Ni idea!
+204,Entre 36 y 65 años,6.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Más de 5,1 vez al día,Siempre,Buena idea! Voy a probarlo!,A veces,1 vez al día,100 - 200 km,No tengo mascota,5,Entre 10€ y 40 €
+205,Entre 18 y 35 años,4.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Ni idea!
+206,Entre 36 y 65 años,2.0,A Coruña,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,100 - 200 km,Menos de 50 €,500,Entre 10€ y 40 €
+207,Entre 36 y 65 años,4.0,Barcelona,Ayudar al ecosistema,Entre 5 y 10 minutos,Más de 5,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+208,Entre 18 y 35 años,4.0,Barcelona,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Ni idea!
+209,Entre 36 y 65 años,4.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+210,Entre 36 y 65 años,3.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,No,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+211,Entre 36 y 65 años,2.0,A Coruña,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez a la semana,Menos de 100 km,Menos de 50 €,1000,Entre 10€ y 40 €
+212,Entre 36 y 65 años,4.0,Zaragoza,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,70,Entre 10€ y 40 €
+213,Entre 36 y 65 años,5.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Más de 5,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez a la semana,Más de 200 km,Menos de 50 €,3,Ni idea!
+214,Entre 36 y 65 años,3.0,Las Palmas,Conocer mi huella hídrica,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,A veces,No,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+215,Entre 18 y 35 años,4.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+216,Entre 18 y 35 años,3.0,Murcia,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,A veces,Si,A veces,1 vez cada 3 días,Menos de 100 km,Entre 50 y 100 €,100,Más de 40 €
+217,Entre 36 y 65 años,4.0,Madrid,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez a la semana,100 - 200 km,No tengo mascota,120,Más de 40 €
+218,Mayor de 65 años,1.0,Valladolid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,A veces,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+219,Entre 18 y 35 años,3.0,Asturias,Ahorrar agua,Más de 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,35,Entre 10€ y 40 €
+220,Entre 18 y 35 años,5.0,A Coruña,Ahorrar dinero,Entre 11 y 15 minutos,Más de 5,1 vez al día,Siempre,No,A veces,1 vez a la semana,Más de 200 km,Menos de 50 €,1500,Ni idea!
+221,Entre 18 y 35 años,2.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,Siempre,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+222,Entre 36 y 65 años,3.0,Cádiz,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,1 vez al día,Siempre,No,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+223,Entre 36 y 65 años,4.0,Asturias,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,1 vez al día,Siempre,No,Siempre,1 vez a la semana,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+224,Entre 18 y 35 años,8.0,Madrid,Ayudar al ecosistema,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez a la semana,No uso coche,No tengo mascota,0,Ni idea!
+225,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,A veces,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+226,Entre 36 y 65 años,2.0,Barcelona,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,No uso coche,Más de 100 €,0,Más de 40 €
+227,Entre 18 y 35 años,4.0,La Rioja,Conocer mi huella hídrica,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,Si,A veces,1 vez cada 3 días,Menos de 100 km,Entre 50 y 100 €,0,Ni idea!
+228,Entre 18 y 35 años,2.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+229,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+230,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,A veces,Si,Siempre,1 vez a la semana,Menos de 100 km,Entre 50 y 100 €,0,Ni idea!
+231,Mayor de 65 años,4.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+232,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez a la semana,Menos de 100 km,Entre 50 y 100 €,0,Entre 10€ y 40 €
+233,Menor de 18 años,4.0,Murcia,Ahorrar agua,Entre 5 y 10 minutos,Más de 5,Friego a mano,No sabía que existía ese modo,No,A veces,1 vez al día,Menos de 100 km,No tengo mascota,100,Entre 10€ y 40 €
+234,Entre 36 y 65 años,5.0,Madrid,Ahorrar dinero,Menos de 5 minutos,Más de 5,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Más de 40 €
+235,Entre 36 y 65 años,4.0,Asturias,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+236,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+237,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,No uso coche,Menos de 50 €,0,Entre 10€ y 40 €
+238,Entre 18 y 35 años,3.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+239,Entre 18 y 35 años,4.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,No,Siempre,1 vez cada 3 días,Más de 200 km,No tengo mascota,0,Entre 10€ y 40 €
+240,Entre 36 y 65 años,2.0,Pontevedra,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,No,A veces,1 vez cada 3 días,100 - 200 km,No tengo mascota,150,Entre 10€ y 40 €
+241,Entre 36 y 65 años,4.0,Madrid,Conocer mi huella hídrica,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,Si,Siempre,1 vez cada 3 días,Menos de 100 km,Entre 50 y 100 €,0,Ni idea!
+242,Entre 36 y 65 años,5.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Más de 5,Entre 3 y 5 a la semana,A veces,No,Nunca!,1 vez cada 3 días,Más de 200 km,No tengo mascota,0,Entre 10€ y 40 €
+243,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez a la semana,100 - 200 km,Menos de 50 €,0,Ni idea!
+244,Entre 18 y 35 años,2.0,Sevilla,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Ni idea!
+245,Mayor de 65 años,1.0,Asturias,Ayudar al ecosistema,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+246,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,1 vez al día,A veces,Si,Siempre,1 vez al día,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+247,Mayor de 65 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,No,Siempre,1 vez a la semana,100 - 200 km,Menos de 50 €,400,Más de 40 €
+248,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez a la semana,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+249,Entre 36 y 65 años,2.0,Alicante,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez al día,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+250,Entre 36 y 65 años,4.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Más de 200 km,No tengo mascota,0,Ni idea!
+251,Entre 36 y 65 años,2.0,Lérida,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Ni idea!
+252,Entre 18 y 35 años,2.0,Valencia,Conocer mi huella hídrica,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,Si,Siempre,Nunca!,Menos de 100 km,Entre 50 y 100 €,0,Entre 10€ y 40 €
+253,Entre 36 y 65 años,5.0,Toledo,Ahorrar agua,Menos de 5 minutos,Más de 5,1 vez al día,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez al día,Más de 200 km,No tengo mascota,30,Más de 40 €
+254,Entre 36 y 65 años,4.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Más de 5,1 vez al día,A veces,Buena idea! Voy a probarlo!,A veces,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+255,Mayor de 65 años,3.0,Toledo,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,Friego a mano,No sabía que existía ese modo,Buena idea! Voy a probarlo!,A veces,1 vez a la semana,No uso coche,No tengo mascota,0,Ni idea!
+256,Entre 18 y 35 años,5.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,1 vez al día,A veces,Buena idea! Voy a probarlo!,Siempre,Nunca!,No uso coche,Entre 50 y 100 €,0,Ni idea!
+257,Mayor de 65 años,1.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,A veces,Nunca!,100 - 200 km,Entre 50 y 100 €,30,Ni idea!
+258,Entre 18 y 35 años,3.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,No sabía que existía ese modo,Buena idea! Voy a probarlo!,A veces,1 vez al día,No uso coche,Menos de 50 €,0,Entre 10€ y 40 €
+259,Entre 36 y 65 años,2.0,Sevilla,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,250,Entre 10€ y 40 €
+260,Entre 36 y 65 años,4.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Más de 5,1 vez al día,A veces,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+261,Entre 18 y 35 años,3.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,No,Siempre,1 vez cada 3 días,Más de 200 km,No tengo mascota,0,Ni idea!
+262,Entre 36 y 65 años,2.0,Sevilla,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+263,Entre 18 y 35 años,2.0,Málaga,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+264,Entre 36 y 65 años,3.0,Barcelona,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+265,Entre 36 y 65 años,4.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Más de 5,1 vez al día,A veces,No,A veces,1 vez a la semana,Menos de 100 km,Menos de 50 €,300,Ni idea!
+266,Mayor de 65 años,2.0,Madrid,Conocer mi huella hídrica,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez a la semana,Más de 200 km,No tengo mascota,400,Entre 10€ y 40 €
+267,Entre 18 y 35 años,3.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Ni idea!
+268,Entre 18 y 35 años,4.0,Huelva,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,1 vez al día,A veces,Si,Siempre,1 vez al día,Más de 200 km,Menos de 50 €,0,Menos de 10 €
+269,Entre 36 y 65 años,7.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,A veces,No,Siempre,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Ni idea!
+270,Mayor de 65 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez cada 3 días,100 - 200 km,No tengo mascota,600,Más de 40 €
+271,Entre 18 y 35 años,2.0,Huesca,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,A veces,No,A veces,1 vez cada 3 días,No uso coche,Entre 50 y 100 €,0,Entre 10€ y 40 €
+272,Entre 36 y 65 años,1.0,Valladolid,Ayudar al ecosistema,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+273,Menor de 18 años,4.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,No sabía que existía ese modo,Buena idea! Voy a probarlo!,A veces,1 vez cada 3 días,Más de 200 km,Entre 50 y 100 €,0,Ni idea!
+274,Entre 36 y 65 años,3.0,Madrid,Ahorrar dinero,Menos de 5 minutos,Entre 3 y 5 veces,Friego a mano,Siempre,Si,Siempre,1 vez cada 3 días,Más de 200 km,No tengo mascota,500,Entre 10€ y 40 €
+275,Entre 18 y 35 años,3.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,No sabía que existía ese modo,Buena idea! Voy a probarlo!,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,20,Más de 40 €
+276,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Friego a mano,No sabía que existía ese modo,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+277,Entre 36 y 65 años,3.0,Murcia,Conocer mi huella hídrica,Menos de 5 minutos,Entre 3 y 5 veces,Friego a mano,Siempre,Si,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Más de 40 €
+278,Mayor de 65 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+279,Entre 18 y 35 años,1.0,Madrid,Ahorrar dinero,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+280,Entre 18 y 35 años,5.0,Badajoz,Ayudar al ecosistema,Más de 15 minutos,Menos de 3 veces,Friego a mano,A veces,No,A veces,1 vez cada 3 días,100 - 200 km,Entre 50 y 100 €,0,Entre 10€ y 40 €
+281,Entre 36 y 65 años,4.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez al día,Menos de 100 km,Menos de 50 €,0,Ni idea!
+282,Entre 36 y 65 años,5.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Más de 5,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez a la semana,100 - 200 km,No tengo mascota,30,Entre 10€ y 40 €
+283,Entre 18 y 35 años,3.0,Pontevedra,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+284,Entre 36 y 65 años,4.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+285,Entre 18 y 35 años,2.0,Madrid,Conocer mi huella hídrica,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,No,A veces,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+286,Entre 36 y 65 años,5.0,Toledo,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Friego a mano,A veces,Si,Siempre,1 vez cada 3 días,Más de 200 km,Menos de 50 €,20,Entre 10€ y 40 €
+287,Entre 36 y 65 años,5.0,Las Palmas,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,A veces,Nunca!,No uso coche,No tengo mascota,0,Menos de 10 €
+288,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,No uso coche,Menos de 50 €,30,Entre 10€ y 40 €
+289,Menor de 18 años,4.0,Madrid,Ahorrar agua,Entre 11 y 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,No,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+290,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+291,Mayor de 65 años,1.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,66,Entre 10€ y 40 €
+292,Entre 36 y 65 años,1.0,Córdoba,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,A veces,1 vez cada 3 días,Menos de 100 km,Entre 50 y 100 €,0,Ni idea!
+293,Entre 36 y 65 años,5.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Más de 5,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez a la semana,Más de 200 km,Entre 50 y 100 €,700,Más de 40 €
+294,Entre 36 y 65 años,3.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,Más de 200 km,Entre 50 y 100 €,0,Entre 10€ y 40 €
+295,Entre 36 y 65 años,4.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Más de 5,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez al día,100 - 200 km,No tengo mascota,0,Ni idea!
+296,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Más de 15 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,Buena idea! Voy a probarlo!,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Más de 40 €
+297,Entre 18 y 35 años,7.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,A veces,Buena idea! Voy a probarlo!,A veces,1 vez al día,Más de 200 km,Entre 50 y 100 €,0,Más de 40 €
+298,Entre 36 y 65 años,4.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Más de 40 €
+299,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,A veces,Si,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Más de 40 €
+300,Menor de 18 años,3.0,Barcelona,Ahorrar dinero,Más de 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez al día,No uso coche,Entre 50 y 100 €,0,Ni idea!
+301,Entre 36 y 65 años,3.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,Más de 200 km,No tengo mascota,0,Entre 10€ y 40 €
+302,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+303,Entre 18 y 35 años,3.0,Cádiz,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,A veces,No,A veces,1 vez al día,Menos de 100 km,Menos de 50 €,20,Entre 10€ y 40 €
+304,Entre 18 y 35 años,5.0,Burgos,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,A veces,No,Nunca!,1 vez al día,Menos de 100 km,No tengo mascota,20,Entre 10€ y 40 €
+305,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+306,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Entre 11 y 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,Más de 200 km,No tengo mascota,0,Entre 10€ y 40 €
+307,Entre 18 y 35 años,4.0,Madrid,Ahorrar dinero,Más de 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez a la semana,Menos de 100 km,Entre 50 y 100 €,500,Más de 40 €
+308,Menor de 18 años,4.0,Barcelona,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Ni idea!
+309,Entre 36 y 65 años,4.0,Madrid,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez a la semana,No uso coche,No tengo mascota,0,Más de 40 €
+310,Entre 18 y 35 años,4.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,Si,A veces,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Ni idea!
+311,Entre 18 y 35 años,2.0,Barcelona,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,A veces,Si,Siempre,1 vez al día,100 - 200 km,Entre 50 y 100 €,0,Entre 10€ y 40 €
+312,Entre 36 y 65 años,3.0,Huesca,Conocer mi huella hídrica,Entre 5 y 10 minutos,Más de 5,1 vez al día,A veces,No,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+313,Entre 36 y 65 años,4.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Más de 40 €
+314,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez al día,Menos de 100 km,Entre 50 y 100 €,0,Menos de 10 €
+315,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,Buena idea! Voy a probarlo!,Siempre,Nunca!,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+316,Entre 36 y 65 años,2.0,Zaragoza,Ayudar al ecosistema,Más de 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,A veces,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+317,Entre 36 y 65 años,2.0,Barcelona,Conocer mi huella hídrica,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez al día,Más de 200 km,No tengo mascota,800,Más de 40 €
+318,Entre 18 y 35 años,1.0,Madrid,Ahorrar dinero,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,A veces,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Ni idea!
+319,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+320,Entre 36 y 65 años,5.0,Zaragoza,Ahorrar agua,Entre 5 y 10 minutos,Más de 5,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,100 - 200 km,Menos de 50 €,0,Entre 10€ y 40 €
+321,Entre 36 y 65 años,3.0,Madrid,Ahorrar dinero,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+322,Mayor de 65 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+323,Mayor de 65 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+324,Entre 18 y 35 años,4.0,Madrid,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,A veces,Si,Siempre,1 vez a la semana,Menos de 100 km,Entre 50 y 100 €,0,Más de 40 €
+325,Entre 18 y 35 años,3.0,Madrid,Ahorrar dinero,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,A veces,1 vez al día,100 - 200 km,Menos de 50 €,0,Entre 10€ y 40 €
+326,Entre 36 y 65 años,7.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Más de 5,1 vez al día,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez al día,100 - 200 km,No tengo mascota,0,Más de 40 €
+327,Entre 36 y 65 años,4.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+328,Entre 18 y 35 años,2.0,Valladolid,Ahorrar dinero,Más de 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,Nunca!,No uso coche,Menos de 50 €,0,Ni idea!
+329,Entre 36 y 65 años,3.0,Barcelona,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez al día,Más de 200 km,No tengo mascota,0,Entre 10€ y 40 €
+330,Entre 18 y 35 años,2.0,Madrid,Ayudar al ecosistema,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez al día,Menos de 100 km,Entre 50 y 100 €,0,Ni idea!
+331,Entre 18 y 35 años,3.0,Toledo,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,No,Siempre,Nunca!,Menos de 100 km,Menos de 50 €,5,Ni idea!
+332,Entre 36 y 65 años,4.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,Si,Siempre,1 vez cada 3 días,100 - 200 km,Entre 50 y 100 €,50,Más de 40 €
+333,Entre 36 y 65 años,4.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,Si,Siempre,1 vez al día,No uso coche,Menos de 50 €,0,Entre 10€ y 40 €
+334,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+335,Entre 18 y 35 años,3.0,Barcelona,Ayudar al ecosistema,Entre 11 y 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,A veces,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Más de 40 €
+336,Entre 36 y 65 años,4.0,Asturias,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,15,Entre 10€ y 40 €
+337,Entre 36 y 65 años,5.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,150,Más de 40 €
+338,Entre 36 y 65 años,2.0,Alicante,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez a la semana,100 - 200 km,No tengo mascota,0,Más de 40 €
+339,Entre 36 y 65 años,6.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Más de 5,1 vez al día,Siempre,No,Siempre,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+340,Entre 18 y 35 años,2.0,Madrid,Ayudar al ecosistema,Más de 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,100 - 200 km,Menos de 50 €,0,Entre 10€ y 40 €
+341,Entre 36 y 65 años,5.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez al día,No uso coche,No tengo mascota,0,Ni idea!
+342,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,No,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+343,Entre 36 y 65 años,5.0,Madrid,Ahorrar dinero,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,No,A veces,1 vez cada 3 días,No uso coche,No tengo mascota,0,Ni idea!
+344,Entre 36 y 65 años,3.0,Asturias,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,Más de 200 km,No tengo mascota,0,Entre 10€ y 40 €
+345,Entre 18 y 35 años,4.0,Madrid,Ayudar al ecosistema,Entre 11 y 15 minutos,Más de 5,Friego a mano,Siempre,Si,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,830,Ni idea!
+346,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez a la semana,Más de 200 km,Entre 50 y 100 €,1000,Ni idea!
+347,Entre 18 y 35 años,4.0,Segovia,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Si,A veces,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Ni idea!
+348,Entre 18 y 35 años,4.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,A veces,1 vez al día,No uso coche,Entre 50 y 100 €,2,Ni idea!
+349,Entre 36 y 65 años,5.0,Madrid,Ahorrar dinero,Entre 11 y 15 minutos,Más de 5,1 vez al día,A veces,Si,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+350,Entre 36 y 65 años,5.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Más de 5,Entre 3 y 5 a la semana,Siempre,No,A veces,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Ni idea!
+351,Entre 36 y 65 años,4.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Más de 5,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,100 - 200 km,Menos de 50 €,0,Entre 10€ y 40 €
+352,Menor de 18 años,4.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Más de 5,1 vez al día,No sabía que existía ese modo,Si,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,10,Ni idea!
+353,Entre 18 y 35 años,4.0,Pontevedra,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,Nunca!,1 vez cada 3 días,No uso coche,Menos de 50 €,0,Entre 10€ y 40 €
+354,Entre 36 y 65 años,4.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,A veces,Si,A veces,1 vez cada 3 días,No uso coche,Menos de 50 €,0,Más de 40 €
+355,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez a la semana,Más de 200 km,Menos de 50 €,0,Entre 10€ y 40 €
+356,Entre 36 y 65 años,2.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,50,Entre 10€ y 40 €
+357,Entre 18 y 35 años,4.0,Madrid,Ayudar al ecosistema,Más de 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,No,A veces,1 vez al día,No uso coche,No tengo mascota,0,Ni idea!
+358,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+359,Entre 18 y 35 años,3.0,Alicante,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,A veces,No,A veces,1 vez al día,No uso coche,No tengo mascota,0,Ni idea!
+360,Entre 18 y 35 años,2.0,Barcelona,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,No,A veces,1 vez cada 3 días,100 - 200 km,Entre 50 y 100 €,30,Menos de 10 €
+361,Entre 18 y 35 años,3.0,Madrid,Ahorrar dinero,Más de 15 minutos,Menos de 3 veces,1 vez al día,No sabía que existía ese modo,No,Nunca!,1 vez al día,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+362,Entre 18 y 35 años,4.0,Valencia,Ayudar al ecosistema,Más de 15 minutos,Más de 5,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Ni idea!
+363,Entre 18 y 35 años,4.0,Valencia,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,No,Nunca!,Nunca!,No uso coche,Entre 50 y 100 €,0,Entre 10€ y 40 €
+364,Entre 36 y 65 años,1.0,Segovia,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,A veces,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+365,Entre 18 y 35 años,3.0,Segovia,Conocer mi huella hídrica,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Menos de 10 €
+366,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,Nunca!,Menos de 100 km,Entre 50 y 100 €,0,Más de 40 €
+367,Entre 36 y 65 años,4.0,Segovia,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,A veces,1 vez al día,Más de 200 km,Menos de 50 €,120,Entre 10€ y 40 €
+368,Entre 18 y 35 años,2.0,Madrid,Ahorrar dinero,Menos de 5 minutos,Menos de 3 veces,1 vez al día,A veces,No,Nunca!,1 vez al día,Menos de 100 km,Entre 50 y 100 €,0,Entre 10€ y 40 €
+369,Entre 18 y 35 años,3.0,Las Palmas,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Friego a mano,No sabía que existía ese modo,Buena idea! Voy a probarlo!,A veces,1 vez cada 3 días,No uso coche,Menos de 50 €,0,Entre 10€ y 40 €
+370,Entre 18 y 35 años,4.0,Pontevedra,Conocer mi huella hídrica,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,No,Siempre,1 vez a la semana,No uso coche,Entre 50 y 100 €,700,Ni idea!
+371,Entre 18 y 35 años,2.0,Segovia,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+372,Entre 36 y 65 años,1.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Menos de 10 €
+373,Entre 18 y 35 años,4.0,Toledo,Ahorrar agua,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,A veces,1 vez al día,No uso coche,Menos de 50 €,0,Ni idea!
+374,Entre 18 y 35 años,6.0,Vizcaya,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,No sabía que existía ese modo,Si,Siempre,1 vez cada 3 días,No uso coche,Menos de 50 €,0,Más de 40 €
+375,Entre 18 y 35 años,2.0,Madrid,Ayudar al ecosistema,Más de 15 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,Siempre,1 vez cada 3 días,Menos de 100 km,Entre 50 y 100 €,0,Entre 10€ y 40 €
+376,Entre 18 y 35 años,4.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Ni idea!
+377,Entre 18 y 35 años,3.0,Granada,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,A veces,1 vez a la semana,No uso coche,Menos de 50 €,0,Entre 10€ y 40 €
+378,Entre 18 y 35 años,3.0,Madrid,Conocer mi huella hídrica,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,A veces,No,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Ni idea!
+379,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+380,Entre 18 y 35 años,5.0,Barcelona,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,No uso coche,Menos de 50 €,180,Más de 40 €
+381,Entre 18 y 35 años,4.0,Gipuzkoa,Ahorrar dinero,Más de 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,No,Siempre,1 vez cada 3 días,No uso coche,Entre 50 y 100 €,0,Ni idea!
+382,Menor de 18 años,3.0,Madrid,Conocer mi huella hídrica,Entre 11 y 15 minutos,Entre 3 y 5 veces,Friego a mano,Siempre,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Más de 40 €
+383,Entre 36 y 65 años,2.0,Salamanca,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+384,Entre 18 y 35 años,1.0,Madrid,Conocer mi huella hídrica,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,A veces,No,Siempre,1 vez al día,No uso coche,Menos de 50 €,0,Entre 10€ y 40 €
+385,Entre 18 y 35 años,4.0,Valencia,Ayudar al ecosistema,Entre 11 y 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+386,Entre 18 y 35 años,3.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Nunca!,1 vez cada 3 días,No uso coche,Menos de 50 €,0,Ni idea!
+387,Entre 36 y 65 años,3.0,Madrid,Conocer mi huella hídrica,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Si,A veces,1 vez al día,Menos de 100 km,Menos de 50 €,100,Más de 40 €
+388,Entre 18 y 35 años,2.0,Alicante,Ahorrar dinero,Menos de 5 minutos,Menos de 3 veces,Friego a mano,A veces,No,Siempre,1 vez al día,Más de 200 km,No tengo mascota,0,Entre 10€ y 40 €
+389,Entre 18 y 35 años,4.0,Jaén,Ahorrar agua,Entre 11 y 15 minutos,Entre 3 y 5 veces,Friego a mano,A veces,Si,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Ni idea!
+390,Entre 18 y 35 años,4.0,Córdoba,Ayudar al ecosistema,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,Si,Siempre,1 vez al día,No uso coche,Menos de 50 €,0,Ni idea!
+391,Entre 36 y 65 años,2.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+392,Entre 18 y 35 años,3.0,Málaga,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,1 vez al día,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez a la semana,No uso coche,No tengo mascota,0,Ni idea!
+393,Entre 36 y 65 años,4.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,Más de 200 km,No tengo mascota,0,Más de 40 €
+394,Entre 18 y 35 años,4.0,Madrid,Ahorrar dinero,Entre 11 y 15 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,Buena idea! Voy a probarlo!,A veces,1 vez al día,No uso coche,No tengo mascota,0,Ni idea!
+395,Entre 36 y 65 años,2.0,Sevilla,Conocer mi huella hídrica,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,A veces,Buena idea! Voy a probarlo!,A veces,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+396,Entre 36 y 65 años,3.0,Asturias,Ahorrar dinero,Menos de 5 minutos,Menos de 3 veces,1 vez al día,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+397,Entre 18 y 35 años,4.0,Guadalajara,Ahorrar dinero,Entre 11 y 15 minutos,Entre 3 y 5 veces,Friego a mano,A veces,No,Nunca!,1 vez al día,No uso coche,No tengo mascota,0,Ni idea!
+398,Entre 18 y 35 años,1.0,Sevilla,Conocer mi huella hídrica,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,A veces,No,Nunca!,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+399,Entre 18 y 35 años,3.0,Pontevedra,Ahorrar dinero,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,Nunca!,1 vez al día,Menos de 100 km,Entre 50 y 100 €,5000,Entre 10€ y 40 €
+400,Entre 18 y 35 años,2.0,Barcelona,Ahorrar dinero,Menos de 5 minutos,Entre 3 y 5 veces,Friego a mano,Siempre,No,A veces,1 vez cada 3 días,Menos de 100 km,Entre 50 y 100 €,40,Más de 40 €
+401,Entre 18 y 35 años,1.0,Madrid,Ahorrar dinero,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,A veces,1 vez al día,No uso coche,No tengo mascota,0,Ni idea!
+402,Entre 18 y 35 años,4.0,Murcia,Ahorrar dinero,Entre 11 y 15 minutos,Entre 3 y 5 veces,Friego a mano,Siempre,Si,Nunca!,1 vez al día,No uso coche,No tengo mascota,0,Ni idea!
+403,Entre 18 y 35 años,2.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+404,Entre 18 y 35 años,2.0,Segovia,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,A veces,No,Nunca!,1 vez cada 3 días,Menos de 100 km,Entre 50 y 100 €,80,Ni idea!
+405,Entre 18 y 35 años,2.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,1 vez al día,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+406,Entre 18 y 35 años,4.0,Barcelona,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez al día,No uso coche,Menos de 50 €,0,Ni idea!
+407,Mayor de 65 años,4.0,Madrid,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,No,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Más de 40 €
+408,Entre 18 y 35 años,3.0,Asturias,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,No sabía que existía ese modo,No,Siempre,1 vez cada 3 días,Menos de 100 km,Entre 50 y 100 €,0,Entre 10€ y 40 €
+409,Entre 18 y 35 años,5.0,Barcelona,Ahorrar dinero,Entre 5 y 10 minutos,Más de 5,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez al día,100 - 200 km,Entre 50 y 100 €,20,Más de 40 €
+410,Entre 18 y 35 años,5.0,Barcelona,Conocer mi huella hídrica,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,Si,A veces,1 vez al día,Menos de 100 km,Entre 50 y 100 €,120,Más de 40 €
+411,Entre 36 y 65 años,4.0,Asturias,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,No,Siempre,1 vez a la semana,Más de 200 km,Entre 50 y 100 €,0,Ni idea!
+412,Mayor de 65 años,1.0,Asturias,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+413,Entre 36 y 65 años,4.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez a la semana,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+414,Entre 36 y 65 años,1.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez cada 3 días,Más de 200 km,No tengo mascota,25,Entre 10€ y 40 €
+415,Entre 18 y 35 años,4.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,No,A veces,1 vez al día,Más de 200 km,No tengo mascota,20,Ni idea!
+416,Entre 36 y 65 años,1.0,Segovia,Conocer mi huella hídrica,Menos de 5 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+417,Entre 36 y 65 años,4.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Más de 5,1 vez al día,Siempre,Si,A veces,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Más de 40 €
+418,Entre 18 y 35 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,No uso coche,Entre 50 y 100 €,0,Entre 10€ y 40 €
+419,Entre 36 y 65 años,4.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Más de 200 km,No tengo mascota,0,Ni idea!
+420,Entre 18 y 35 años,4.0,Asturias,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+421,Entre 18 y 35 años,4.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+422,Entre 18 y 35 años,4.0,Barcelona,Ahorrar agua,Más de 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Nunca!,1 vez cada 3 días,No uso coche,Entre 50 y 100 €,0,Ni idea!
+423,Entre 36 y 65 años,4.0,Segovia,Conocer mi huella hídrica,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,No sabía que existía ese modo,No,A veces,1 vez al día,Más de 200 km,No tengo mascota,0,Ni idea!
+424,Entre 18 y 35 años,4.0,Vizcaya,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez a la semana,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+425,Entre 18 y 35 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez al día,Menos de 100 km,Menos de 50 €,40,Entre 10€ y 40 €
+426,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+427,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,A veces,No,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+428,Entre 18 y 35 años,4.0,Asturias,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,No sabía que existía ese modo,No,A veces,1 vez cada 3 días,Menos de 100 km,No tengo mascota,15,Más de 40 €
+429,Entre 36 y 65 años,4.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+430,Entre 18 y 35 años,4.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Más de 5,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,Más de 200 km,No tengo mascota,0,Ni idea!
+431,Entre 18 y 35 años,4.0,Madrid,Ahorrar dinero,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+432,Entre 36 y 65 años,4.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,A veces,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+433,Entre 36 y 65 años,1.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+434,Entre 36 y 65 años,4.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,Más de 200 km,Entre 50 y 100 €,100,Más de 40 €
+435,Entre 36 y 65 años,1.0,Sevilla,Conocer mi huella hídrica,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+436,Entre 18 y 35 años,1.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,A veces,Buena idea! Voy a probarlo!,A veces,1 vez cada 3 días,Menos de 100 km,Más de 100 €,0,Menos de 10 €
+437,Entre 36 y 65 años,3.0,Cádiz,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez cada 3 días,100 - 200 km,Entre 50 y 100 €,0,Entre 10€ y 40 €
+438,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,A veces,Si,A veces,1 vez cada 3 días,100 - 200 km,No tengo mascota,3,Más de 40 €
+439,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez al día,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+440,Entre 18 y 35 años,4.0,Segovia,Ayudar al ecosistema,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,No,A veces,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+441,Entre 36 y 65 años,3.0,Barcelona,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Menos de 10 €
+442,Entre 18 y 35 años,2.0,Asturias,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,Friego a mano,A veces,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+443,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+444,Entre 18 y 35 años,4.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+445,Entre 36 y 65 años,5.0,Madrid,Ahorrar dinero,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,Siempre,No,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Ni idea!
+446,Entre 36 y 65 años,4.0,Madrid,Conocer mi huella hídrica,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,Siempre,Si,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+447,Mayor de 65 años,2.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+448,Entre 36 y 65 años,2.0,Segovia,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,Siempre,Nunca!,No uso coche,Menos de 50 €,0,Entre 10€ y 40 €
+449,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,A veces,1 vez a la semana,No uso coche,No tengo mascota,0,Ni idea!
+450,Entre 36 y 65 años,4.0,Asturias,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,25,Entre 10€ y 40 €
+451,Entre 18 y 35 años,5.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,A veces,Si,Siempre,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Más de 40 €
+452,Entre 18 y 35 años,4.0,Segovia,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,Buena idea! Voy a probarlo!,A veces,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+453,Entre 18 y 35 años,3.0,Madrid,Ayudar al ecosistema,Más de 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Más de 40 €
+454,Entre 36 y 65 años,3.0,Segovia,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Más de 200 km,No tengo mascota,0,Entre 10€ y 40 €
+455,Entre 36 y 65 años,4.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,A veces,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+456,Entre 36 y 65 años,3.0,Segovia,Conocer mi huella hídrica,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,2000,Más de 40 €
+457,Entre 18 y 35 años,3.0,Madrid,Ahorrar dinero,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,A veces,No,A veces,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+458,Entre 36 y 65 años,5.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Más de 5,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,Más de 200 km,No tengo mascota,0,Más de 40 €
+459,Entre 36 y 65 años,2.0,Madrid,Ahorrar dinero,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,A veces,1 vez a la semana,Más de 200 km,Menos de 50 €,40,Entre 10€ y 40 €
+460,Entre 36 y 65 años,1.0,Madrid,Conocer mi huella hídrica,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+461,Entre 18 y 35 años,4.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+462,Entre 36 y 65 años,1.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,1 vez al día,Siempre,No,Siempre,1 vez al día,Más de 200 km,Entre 50 y 100 €,0,Entre 10€ y 40 €
+463,Entre 36 y 65 años,6.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+464,Entre 36 y 65 años,1.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,Más de 200 km,Entre 50 y 100 €,0,Ni idea!
+465,Entre 36 y 65 años,4.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Más de 40 €
+466,Entre 18 y 35 años,2.0,Toledo,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Si,Nunca!,1 vez al día,Menos de 100 km,No tengo mascota,0,Más de 40 €
+467,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+468,Entre 36 y 65 años,3.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Ni idea!
+469,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,No,Siempre,1 vez al día,No uso coche,Menos de 50 €,0,Entre 10€ y 40 €
+470,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez cada 3 días,Menos de 100 km,Entre 50 y 100 €,0,Ni idea!
+471,Entre 36 y 65 años,2.0,Segovia,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,Buena idea! Voy a probarlo!,A veces,1 vez al día,Menos de 100 km,No tengo mascota,0,Ni idea!
+472,Entre 18 y 35 años,2.0,Santa Cruz de Tenerife,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,A veces,Buena idea! Voy a probarlo!,Siempre,Nunca!,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+473,Mayor de 65 años,4.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Más de 5,1 vez al día,A veces,No,Siempre,1 vez cada 3 días,Más de 200 km,Menos de 50 €,0,Ni idea!
+474,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+475,Entre 36 y 65 años,2.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez cada 3 días,No uso coche,Menos de 50 €,0,Entre 10€ y 40 €
+476,Entre 18 y 35 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+477,Entre 36 y 65 años,4.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,1 vez al día,No sabía que existía ese modo,No,Siempre,1 vez al día,100 - 200 km,Entre 50 y 100 €,0,Entre 10€ y 40 €
+478,Entre 36 y 65 años,1.0,Asturias,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+479,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+480,Mayor de 65 años,2.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,A veces,1 vez a la semana,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+481,Entre 36 y 65 años,2.0,Cádiz,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,Siempre,Nunca!,Menos de 100 km,No tengo mascota,60,Entre 10€ y 40 €
+482,Entre 18 y 35 años,4.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,No,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Más de 40 €
+483,Mayor de 65 años,2.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez al día,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+484,Entre 18 y 35 años,3.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Ni idea!
+485,Entre 36 y 65 años,4.0,Madrid,Ahorrar dinero,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,200,Entre 10€ y 40 €
+486,Entre 18 y 35 años,5.0,Madrid,Ahorrar agua,Entre 11 y 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,No,Siempre,1 vez al día,100 - 200 km,Menos de 50 €,0,Más de 40 €
+487,Entre 36 y 65 años,3.0,Cádiz,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,A veces,No,A veces,1 vez cada 3 días,No uso coche,Entre 50 y 100 €,10,Más de 40 €
+488,Entre 36 y 65 años,4.0,Toledo,Ahorrar agua,Menos de 5 minutos,Más de 5,1 vez al día,A veces,No,Siempre,1 vez al día,Más de 200 km,No tengo mascota,0,Más de 40 €
+489,Entre 36 y 65 años,2.0,Málaga,Conocer mi huella hídrica,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,No,A veces,1 vez cada 3 días,100 - 200 km,Menos de 50 €,0,Entre 10€ y 40 €
+490,Entre 36 y 65 años,4.0,Segovia,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,A veces,No,A veces,1 vez al día,Menos de 100 km,Menos de 50 €,10,Menos de 10 €
+491,Entre 36 y 65 años,1.0,Sevilla,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+492,Entre 18 y 35 años,1.0,Barcelona,Ahorrar agua,Más de 15 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+493,Entre 36 y 65 años,4.0,Madrid,Ahorrar agua,Entre 11 y 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez a la semana,Menos de 100 km,Menos de 50 €,100,Entre 10€ y 40 €
+494,Entre 36 y 65 años,1.0,Cádiz,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,No sabía que existía ese modo,Si,Siempre,1 vez a la semana,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+495,Entre 18 y 35 años,2.0,Madrid,Conocer mi huella hídrica,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,No,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+496,Entre 36 y 65 años,4.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez cada 3 días,Más de 200 km,Menos de 50 €,0,Más de 40 €
+497,Entre 36 y 65 años,4.0,Madrid,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Más de 200 km,No tengo mascota,20,Entre 10€ y 40 €
+498,Entre 18 y 35 años,2.0,A Coruña,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,A veces,1 vez al día,Menos de 100 km,Entre 50 y 100 €,0,Entre 10€ y 40 €
+499,Entre 36 y 65 años,4.0,Madrid,Ayudar al ecosistema,Entre 11 y 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez a la semana,Menos de 100 km,Entre 50 y 100 €,0,Más de 40 €
+500,Entre 18 y 35 años,4.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Más de 5,1 vez al día,A veces,Si,Nunca!,1 vez cada 3 días,No uso coche,No tengo mascota,0,Más de 40 €
+501,Entre 36 y 65 años,3.0,Segovia,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez al día,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+502,Entre 18 y 35 años,3.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez al día,Menos de 100 km,Entre 50 y 100 €,1000,Más de 40 €
+503,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,1 vez al día,A veces,No,A veces,1 vez al día,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+504,Entre 36 y 65 años,1.0,Segovia,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,A veces,1 vez a la semana,Menos de 100 km,Menos de 50 €,0,Menos de 10 €
+505,Menor de 18 años,3.0,Asturias,Ayudar al ecosistema,Entre 11 y 15 minutos,Entre 3 y 5 veces,Friego a mano,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Ni idea!
+506,Entre 36 y 65 años,1.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,A veces,Si,A veces,1 vez a la semana,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+507,Entre 36 y 65 años,1.0,Segovia,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,1 vez al día,Siempre,Buena idea! Voy a probarlo!,A veces,1 vez a la semana,Menos de 100 km,Entre 50 y 100 €,0,Entre 10€ y 40 €
+508,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez a la semana,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+509,Entre 18 y 35 años,2.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,No,A veces,1 vez cada 3 días,100 - 200 km,Entre 50 y 100 €,0,Entre 10€ y 40 €
+510,Entre 18 y 35 años,4.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Ni idea!
+511,Entre 36 y 65 años,2.0,Murcia,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,A veces,1 vez a la semana,Menos de 100 km,Entre 50 y 100 €,3000,Entre 10€ y 40 €
+512,Entre 36 y 65 años,3.0,Ciudad Real,Conocer mi huella hídrica,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+513,Entre 36 y 65 años,3.0,Segovia,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,A veces,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Ni idea!
+514,Entre 36 y 65 años,2.0,Málaga,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+515,Entre 36 y 65 años,2.0,Cádiz,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez al día,Más de 200 km,Menos de 50 €,0,Entre 10€ y 40 €
+516,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+517,Entre 36 y 65 años,5.0,Segovia,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez al día,Menos de 100 km,Menos de 50 €,50,Entre 10€ y 40 €
+518,Entre 36 y 65 años,4.0,Toledo,Ahorrar dinero,Entre 11 y 15 minutos,Más de 5,Entre 3 y 5 a la semana,No sabía que existía ese modo,No,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Más de 40 €
+519,Entre 36 y 65 años,5.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Más de 5,1 vez al día,A veces,Si,Siempre,1 vez al día,Menos de 100 km,Menos de 50 €,300,Más de 40 €
+520,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+521,Entre 18 y 35 años,4.0,Asturias,Conocer mi huella hídrica,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Ni idea!
+522,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+523,Entre 18 y 35 años,3.0,Asturias,Ahorrar dinero,Entre 11 y 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez cada 3 días,Menos de 100 km,Entre 50 y 100 €,30,Ni idea!
+524,Entre 18 y 35 años,3.0,Ávila,Ahorrar agua,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,Siempre,Buena idea! Voy a probarlo!,A veces,1 vez al día,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+525,Entre 18 y 35 años,4.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,100 - 200 km,Menos de 50 €,1000,Ni idea!
+526,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez al día,100 - 200 km,No tengo mascota,0,Menos de 10 €
+527,Entre 36 y 65 años,4.0,Segovia,Ahorrar dinero,Entre 5 y 10 minutos,Más de 5,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+528,Entre 18 y 35 años,3.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,A veces,1 vez cada 3 días,100 - 200 km,No tengo mascota,30,Entre 10€ y 40 €
+529,Entre 18 y 35 años,2.0,Segovia,Ayudar al ecosistema,Más de 15 minutos,Menos de 3 veces,1 vez al día,A veces,No,Siempre,Nunca!,Menos de 100 km,Entre 50 y 100 €,0,Entre 10€ y 40 €
+530,Entre 36 y 65 años,2.0,Asturias,Ahorrar dinero,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,Más de 200 km,No tengo mascota,30,Ni idea!
+531,Entre 36 y 65 años,2.0,Toledo,Ahorrar dinero,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+532,Entre 18 y 35 años,2.0,Segovia,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,A veces,No,A veces,1 vez al día,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+533,Entre 36 y 65 años,1.0,Cantabria,Conocer mi huella hídrica,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,Si,A veces,1 vez al día,Menos de 100 km,Menos de 50 €,3,Menos de 10 €
+534,Entre 36 y 65 años,4.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,Si,Siempre,1 vez al día,No uso coche,No tengo mascota,15,Entre 10€ y 40 €
+535,Entre 36 y 65 años,1.0,Asturias,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,No,A veces,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+536,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Friego a mano,Siempre,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+537,Entre 18 y 35 años,5.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+538,Entre 36 y 65 años,2.0,Segovia,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Ni idea!
+539,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+540,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,Siempre,No,Siempre,1 vez cada 3 días,No uso coche,Menos de 50 €,250,Entre 10€ y 40 €
+541,Entre 36 y 65 años,2.0,Asturias,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Ni idea!
+542,Entre 36 y 65 años,4.0,Segovia,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+543,Entre 18 y 35 años,10.0,Madrid,Conocer mi huella hídrica,Entre 11 y 15 minutos,Más de 5,1 vez al día,A veces,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,10,Ni idea!
+544,Entre 18 y 35 años,2.0,Madrid,Ahorrar dinero,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Más de 200 km,Entre 50 y 100 €,0,Más de 40 €
+545,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,200,Entre 10€ y 40 €
+546,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+547,Entre 36 y 65 años,4.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Más de 5,1 vez al día,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez al día,Menos de 100 km,Entre 50 y 100 €,0,Más de 40 €
+548,Entre 36 y 65 años,4.0,Madrid,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,A veces,1 vez cada 3 días,Menos de 100 km,Entre 50 y 100 €,30,Ni idea!
+549,Menor de 18 años,4.0,Segovia,Conocer mi huella hídrica,Entre 11 y 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,No,A veces,1 vez al día,No uso coche,No tengo mascota,0,Ni idea!
+550,Entre 36 y 65 años,4.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+551,Entre 36 y 65 años,5.0,Segovia,Ahorrar agua,Entre 5 y 10 minutos,Más de 5,1 vez al día,A veces,No,Siempre,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Ni idea!
+552,Entre 36 y 65 años,1.0,Segovia,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,No,A veces,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+553,Entre 18 y 35 años,2.0,Madrid,Conocer mi huella hídrica,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,A veces,Si,Siempre,1 vez a la semana,Menos de 100 km,Menos de 50 €,0,Ni idea!
+554,Entre 36 y 65 años,3.0,Toledo,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,A veces,1 vez cada 3 días,Más de 200 km,Entre 50 y 100 €,0,Entre 10€ y 40 €
+555,Entre 36 y 65 años,4.0,Segovia,Conocer mi huella hídrica,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez al día,Más de 200 km,No tengo mascota,0,Menos de 10 €
+556,Mayor de 65 años,1.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,Buena idea! Voy a probarlo!,Siempre,1 vez a la semana,No uso coche,Menos de 50 €,0,Entre 10€ y 40 €
+557,Entre 36 y 65 años,3.0,Madrid,Conocer mi huella hídrica,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez cada 3 días,Más de 200 km,Menos de 50 €,400,Más de 40 €
+558,Entre 36 y 65 años,1.0,Segovia,Conocer mi huella hídrica,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,A veces,1 vez cada 3 días,Más de 200 km,No tengo mascota,0,Ni idea!
+559,Menor de 18 años,4.0,Madrid,Ahorrar dinero,Menos de 5 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,Si,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Ni idea!
+560,Entre 36 y 65 años,5.0,Toledo,Ayudar al ecosistema,Menos de 5 minutos,Más de 5,1 vez al día,Siempre,No,A veces,1 vez al día,Menos de 100 km,No tengo mascota,25,Más de 40 €
+561,Entre 36 y 65 años,3.0,Segovia,Ahorrar dinero,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,A veces,No,Siempre,1 vez cada 3 días,No uso coche,Menos de 50 €,0,Ni idea!
+562,Entre 36 y 65 años,2.0,Segovia,Ayudar al ecosistema,Menos de 5 minutos,Más de 5,1 vez al día,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+563,Entre 36 y 65 años,2.0,Toledo,Conocer mi huella hídrica,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez cada 3 días,Más de 200 km,No tengo mascota,0,Entre 10€ y 40 €
+564,Entre 18 y 35 años,3.0,Toledo,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez al día,Más de 200 km,No tengo mascota,18,Entre 10€ y 40 €
+565,Entre 36 y 65 años,2.0,Segovia,Ahorrar dinero,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Más de 200 km,No tengo mascota,400,Entre 10€ y 40 €
+566,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Más de 5,Friego a mano,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+567,Entre 36 y 65 años,4.0,Segovia,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,A veces,1 vez al día,Menos de 100 km,No tengo mascota,0,Ni idea!
+568,Entre 36 y 65 años,4.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+569,Entre 18 y 35 años,2.0,Segovia,Conocer mi huella hídrica,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,A veces,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+570,Entre 36 y 65 años,4.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez al día,100 - 200 km,No tengo mascota,50,Más de 40 €
+571,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,No,Siempre,1 vez cada 3 días,Más de 200 km,No tengo mascota,0,Entre 10€ y 40 €
+572,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez a la semana,No uso coche,Entre 50 y 100 €,0,Entre 10€ y 40 €
+573,Entre 36 y 65 años,3.0,Segovia,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez al día,100 - 200 km,Menos de 50 €,0,Ni idea!
+574,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,Siempre,1 vez a la semana,Más de 200 km,No tengo mascota,0,Entre 10€ y 40 €
+575,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,A veces,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Más de 40 €
+576,Entre 36 y 65 años,1.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Menos de 3 veces,Friego a mano,A veces,No,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,20,Entre 10€ y 40 €
+577,Entre 36 y 65 años,2.0,Segovia,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,A veces,1 vez al día,Menos de 100 km,Entre 50 y 100 €,90,Entre 10€ y 40 €
+578,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez al día,100 - 200 km,Menos de 50 €,0,Entre 10€ y 40 €
+579,Entre 18 y 35 años,2.0,Segovia,Ahorrar dinero,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,No uso coche,Menos de 50 €,0,Ni idea!
+580,Entre 18 y 35 años,3.0,Segovia,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez cada 3 días,Menos de 100 km,Entre 50 y 100 €,2300,Más de 40 €
+581,Entre 36 y 65 años,4.0,Segovia,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+582,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,1 vez al día,A veces,Si,Siempre,1 vez cada 3 días,Más de 200 km,No tengo mascota,0,Menos de 10 €
+583,Entre 36 y 65 años,1.0,Segovia,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,No,A veces,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+584,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez al día,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+585,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Más de 15 minutos,Entre 3 y 5 veces,Friego a mano,A veces,Buena idea! Voy a probarlo!,A veces,1 vez cada 3 días,No uso coche,Menos de 50 €,0,Menos de 10 €
+586,Entre 36 y 65 años,3.0,Segovia,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,No sabía que existía ese modo,No,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Ni idea!
+587,Mayor de 65 años,2.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,1 vez al día,Siempre,Buena idea! Voy a probarlo!,A veces,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+588,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez al día,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+589,Entre 36 y 65 años,4.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Más de 5,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez al día,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+590,Entre 18 y 35 años,4.0,Ciudad Real,Ayudar al ecosistema,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez al día,No uso coche,No tengo mascota,90,Entre 10€ y 40 €
+591,Entre 36 y 65 años,4.0,Madrid,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez cada 3 días,Más de 200 km,Entre 50 y 100 €,1000,Más de 40 €
+592,Entre 18 y 35 años,3.0,Madrid,Ahorrar dinero,Menos de 5 minutos,Entre 3 y 5 veces,Friego a mano,No sabía que existía ese modo,Si,Siempre,1 vez al día,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+593,Entre 36 y 65 años,4.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez a la semana,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+594,Entre 18 y 35 años,2.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,A veces,1 vez al día,No uso coche,Menos de 50 €,0,Menos de 10 €
+595,Entre 18 y 35 años,3.0,Madrid,Ahorrar agua,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+596,Entre 18 y 35 años,3.0,Madrid,Conocer mi huella hídrica,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,Siempre,Nunca!,No uso coche,Menos de 50 €,0,Entre 10€ y 40 €
+597,Entre 18 y 35 años,3.0,Valencia,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,Buena idea! Voy a probarlo!,A veces,1 vez a la semana,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+598,Entre 36 y 65 años,1.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,A veces,1 vez al día,100 - 200 km,Menos de 50 €,0,Entre 10€ y 40 €
+599,Entre 36 y 65 años,2.0,Barcelona,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+600,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,1 vez al día,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+601,Entre 18 y 35 años,4.0,Madrid,Ayudar al ecosistema,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,Nunca!,No uso coche,Entre 50 y 100 €,0,Ni idea!
+602,Entre 36 y 65 años,5.0,Madrid,Ahorrar dinero,Entre 11 y 15 minutos,Más de 5,1 vez al día,Siempre,No,A veces,1 vez al día,No uso coche,Menos de 50 €,0,Más de 40 €
+603,Entre 36 y 65 años,1.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,Nunca!,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+604,Entre 18 y 35 años,2.0,Segovia,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,1 vez al día,No sabía que existía ese modo,No,A veces,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+605,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+606,Entre 18 y 35 años,2.0,Segovia,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,A veces,1 vez al día,Menos de 100 km,Menos de 50 €,0,Menos de 10 €
+607,Entre 36 y 65 años,4.0,Toledo,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez al día,100 - 200 km,Menos de 50 €,0,Menos de 10 €
+608,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+609,Entre 36 y 65 años,3.0,Toledo,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez cada 3 días,100 - 200 km,No tengo mascota,40,Entre 10€ y 40 €
+610,Entre 36 y 65 años,2.0,Segovia,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez al día,Más de 200 km,No tengo mascota,200,Menos de 10 €
+611,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,A veces,1 vez cada 3 días,Menos de 100 km,No tengo mascota,30,Entre 10€ y 40 €
+612,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+613,Entre 36 y 65 años,3.0,Barcelona,Ahorrar dinero,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Menos de 10 €
+614,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+615,Entre 36 y 65 años,2.0,Barcelona,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+616,Entre 36 y 65 años,4.0,Segovia,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,A veces,No,Siempre,1 vez al día,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+617,Entre 18 y 35 años,2.0,Madrid,Ahorrar agua,Entre 11 y 15 minutos,Entre 3 y 5 veces,Friego a mano,A veces,No,A veces,1 vez a la semana,No uso coche,No tengo mascota,0,Ni idea!
+618,Entre 18 y 35 años,3.0,Madrid,Ahorrar dinero,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,Siempre,No,Siempre,1 vez a la semana,No uso coche,Entre 50 y 100 €,0,Más de 40 €
+619,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,A veces,Buena idea! Voy a probarlo!,A veces,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+620,Entre 36 y 65 años,2.0,Segovia,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,1 vez al día,Siempre,No,A veces,1 vez al día,100 - 200 km,Entre 50 y 100 €,1000,Ni idea!
+621,Entre 18 y 35 años,2.0,Madrid,Ahorrar dinero,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez cada 3 días,100 - 200 km,Menos de 50 €,0,Entre 10€ y 40 €
+622,Entre 36 y 65 años,4.0,Segovia,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez cada 3 días,Más de 200 km,Menos de 50 €,0,Más de 40 €
+623,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,Más de 200 km,Entre 50 y 100 €,0,Más de 40 €
+624,Entre 36 y 65 años,3.0,Valladolid,Ahorrar agua,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,A veces,1 vez al día,Más de 200 km,No tengo mascota,0,Menos de 10 €
+625,Entre 36 y 65 años,4.0,Segovia,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,A veces,Si,Siempre,1 vez cada 3 días,100 - 200 km,No tengo mascota,500,Ni idea!
+626,Entre 36 y 65 años,1.0,Segovia,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+627,Entre 36 y 65 años,2.0,Segovia,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,A veces,No,A veces,1 vez al día,100 - 200 km,Menos de 50 €,0,Ni idea!
+628,Entre 18 y 35 años,2.0,Segovia,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Más de 40 €
+629,Entre 18 y 35 años,3.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,Siempre,No,A veces,1 vez cada 3 días,Más de 200 km,No tengo mascota,0,Entre 10€ y 40 €
+630,Entre 36 y 65 años,4.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Más de 5,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez al día,No uso coche,Menos de 50 €,0,Entre 10€ y 40 €
+631,Entre 18 y 35 años,2.0,Madrid,Conocer mi huella hídrica,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,Buena idea! Voy a probarlo!,Nunca!,1 vez al día,No uso coche,Entre 50 y 100 €,0,Entre 10€ y 40 €
+632,Entre 18 y 35 años,4.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Entre 3 y 5 veces,Friego a mano,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+633,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+634,Entre 36 y 65 años,1.0,Toledo,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez a la semana,100 - 200 km,Menos de 50 €,0,Entre 10€ y 40 €
+635,Entre 36 y 65 años,3.0,Ávila,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,A veces,1 vez a la semana,Más de 200 km,No tengo mascota,0,Entre 10€ y 40 €
+636,Entre 18 y 35 años,2.0,Salamanca,Conocer mi huella hídrica,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+637,Entre 18 y 35 años,1.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+638,Entre 36 y 65 años,3.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+639,Entre 18 y 35 años,1.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,Nunca!,1 vez cada 3 días,Menos de 100 km,No tengo mascota,40,Entre 10€ y 40 €
+640,Entre 18 y 35 años,1.0,Álava,Ahorrar dinero,Menos de 5 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Menos de 10 €
+641,Mayor de 65 años,3.0,Madrid,Ayudar al ecosistema,Entre 11 y 15 minutos,Entre 3 y 5 veces,Friego a mano,No sabía que existía ese modo,Buena idea! Voy a probarlo!,A veces,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+642,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Menos de 10 €
+643,Entre 36 y 65 años,1.0,Segovia,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+644,Entre 36 y 65 años,3.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+645,Entre 36 y 65 años,2.0,Segovia,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+646,Entre 18 y 35 años,3.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,Siempre,No,Siempre,1 vez a la semana,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+647,Entre 18 y 35 años,4.0,Madrid,Ayudar al ecosistema,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+648,Entre 18 y 35 años,3.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+649,Entre 18 y 35 años,2.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Más de 5,Friego a mano,Siempre,Si,Siempre,1 vez al día,No uso coche,Entre 50 y 100 €,0,Entre 10€ y 40 €
+650,Entre 18 y 35 años,2.0,Madrid,Ahorrar dinero,Entre 11 y 15 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,Si,Siempre,1 vez cada 3 días,No uso coche,Entre 50 y 100 €,0,Más de 40 €
+651,Entre 36 y 65 años,2.0,Segovia,Ayudar al ecosistema,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,250,Ni idea!
+652,Entre 18 y 35 años,4.0,Segovia,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,A veces,1 vez al día,Menos de 100 km,Menos de 50 €,10,Menos de 10 €
+653,Entre 18 y 35 años,2.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,Si,A veces,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+654,Entre 36 y 65 años,2.0,Segovia,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,100,Menos de 10 €
+655,Entre 18 y 35 años,2.0,Madrid,Ahorrar dinero,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,No sabía que existía ese modo,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+656,Entre 36 y 65 años,3.0,Segovia,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,20,Más de 40 €
+657,Entre 36 y 65 años,3.0,Segovia,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,1 vez al día,Siempre,No,A veces,1 vez cada 3 días,Menos de 100 km,Más de 100 €,0,Entre 10€ y 40 €
+658,Entre 18 y 35 años,4.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,1 vez al día,A veces,Si,Siempre,1 vez al día,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+659,Entre 36 y 65 años,3.0,Huesca,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+660,Entre 18 y 35 años,4.0,Madrid,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,No,Siempre,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Más de 40 €
+661,Entre 36 y 65 años,4.0,Segovia,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,0,Entre 10€ y 40 €
+662,Entre 36 y 65 años,4.0,Sevilla,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Ni idea!
+663,Entre 36 y 65 años,1.0,Cuenca,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Menos de 10 €
+664,Entre 36 y 65 años,3.0,Huesca,Conocer mi huella hídrica,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez al día,100 - 200 km,No tengo mascota,0,Ni idea!
+665,Menor de 18 años,4.0,Huesca,Ahorrar agua,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,Siempre,1 vez al día,No uso coche,Menos de 50 €,0,Ni idea!
+666,Menor de 18 años,4.0,Huesca,Ahorrar agua,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,Siempre,1 vez al día,No uso coche,Menos de 50 €,0,Ni idea!
+667,Entre 18 y 35 años,4.0,Segovia,Conocer mi huella hídrica,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,A veces,No,Siempre,1 vez al día,No uso coche,Entre 50 y 100 €,0,Más de 40 €
+668,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,No,Siempre,1 vez a la semana,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+669,Entre 36 y 65 años,4.0,Huesca,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,No,Siempre,1 vez al día,No uso coche,Menos de 50 €,0,Entre 10€ y 40 €
+670,Entre 36 y 65 años,2.0,Segovia,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,A veces,No,A veces,1 vez cada 3 días,Menos de 100 km,Entre 50 y 100 €,0,Entre 10€ y 40 €
+671,Mayor de 65 años,4.0,Madrid,Ayudar al ecosistema,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+672,Entre 18 y 35 años,4.0,Segovia,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,Siempre,1 vez al día,Más de 200 km,No tengo mascota,0,Ni idea!
+673,Mayor de 65 años,2.0,Las Palmas,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,No sabía que existía ese modo,Si,Siempre,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+674,Entre 18 y 35 años,1.0,Cantabria,Ahorrar dinero,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,No,A veces,1 vez al día,Menos de 100 km,No tengo mascota,0,Menos de 10 €
+675,Entre 18 y 35 años,4.0,Madrid,Ahorrar dinero,Entre 11 y 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,A veces,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+676,Entre 36 y 65 años,3.0,Madrid,Ahorrar dinero,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez a la semana,Más de 200 km,No tengo mascota,0,Entre 10€ y 40 €
+677,Entre 18 y 35 años,2.0,Segovia,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Nunca!,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+678,Entre 18 y 35 años,4.0,Madrid,Conocer mi huella hídrica,Entre 11 y 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+679,Entre 18 y 35 años,3.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+680,Entre 36 y 65 años,1.0,Madrid,Ahorrar dinero,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,Nunca!,1 vez cada 3 días,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+681,Entre 18 y 35 años,4.0,Madrid,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,A veces,Si,Siempre,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Ni idea!
+682,Entre 18 y 35 años,3.0,Segovia,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,1 vez al día,No sabía que existía ese modo,Buena idea! Voy a probarlo!,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+683,Entre 18 y 35 años,3.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,A veces,1 vez cada 3 días,Menos de 100 km,Entre 50 y 100 €,2000,Ni idea!
+684,Entre 18 y 35 años,4.0,Segovia,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,No,A veces,1 vez cada 3 días,Más de 200 km,No tengo mascota,0,Menos de 10 €
+685,Entre 18 y 35 años,4.0,Segovia,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,Si,Siempre,1 vez al día,100 - 200 km,No tengo mascota,0,Ni idea!
+686,Entre 18 y 35 años,4.0,Segovia,Ayudar al ecosistema,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,A veces,No,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Ni idea!
+687,Entre 18 y 35 años,4.0,Segovia,Ayudar al ecosistema,Entre 11 y 15 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,A veces,1 vez cada 3 días,Menos de 100 km,Entre 50 y 100 €,0,Ni idea!
+688,Entre 18 y 35 años,4.0,Segovia,Ayudar al ecosistema,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Ni idea!
+689,Entre 18 y 35 años,4.0,Segovia,Ayudar al ecosistema,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,Siempre,1 vez al día,Menos de 100 km,Menos de 50 €,0,Más de 40 €
+690,Entre 18 y 35 años,4.0,Valladolid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Menos de 10 €
+691,Entre 18 y 35 años,3.0,Madrid,Ayudar al ecosistema,Entre 11 y 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+692,Entre 18 y 35 años,4.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,A veces,No,Siempre,1 vez al día,Más de 200 km,No tengo mascota,0,Entre 10€ y 40 €
+693,Entre 18 y 35 años,5.0,Madrid,Ayudar al ecosistema,Más de 15 minutos,Más de 5,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez cada 3 días,Menos de 100 km,Entre 50 y 100 €,0,Ni idea!
+694,Entre 18 y 35 años,2.0,Pontevedra,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,Buena idea! Voy a probarlo!,Siempre,1 vez al día,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+695,Mayor de 65 años,1.0,Cantabria,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Menos de 100 km,Menos de 50 €,800,Ni idea!
+696,Entre 36 y 65 años,4.0,Segovia,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,No,A veces,1 vez al día,Más de 200 km,No tengo mascota,0,Ni idea!
+697,Entre 18 y 35 años,3.0,Segovia,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,No,Nunca!,1 vez al día,100 - 200 km,Entre 50 y 100 €,70,Más de 40 €
+698,Entre 18 y 35 años,5.0,Segovia,Conocer mi huella hídrica,Menos de 5 minutos,Más de 5,1 vez al día,A veces,No,Nunca!,1 vez a la semana,No uso coche,No tengo mascota,0,Ni idea!
+699,Entre 18 y 35 años,3.0,Segovia,Ahorrar agua,Entre 11 y 15 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,No,A veces,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Menos de 10 €
+700,Entre 18 y 35 años,3.0,Toledo,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,A veces,No,A veces,1 vez a la semana,No uso coche,Menos de 50 €,0,Entre 10€ y 40 €
+701,Entre 18 y 35 años,2.0,Valladolid,Ahorrar agua,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,Si,A veces,1 vez al día,Más de 200 km,Entre 50 y 100 €,0,Entre 10€ y 40 €
+702,Entre 18 y 35 años,2.0,Madrid,Conocer mi huella hídrica,Entre 11 y 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez al día,No uso coche,Entre 50 y 100 €,0,Más de 40 €
+703,Entre 18 y 35 años,4.0,Segovia,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,Si,A veces,1 vez cada 3 días,100 - 200 km,No tengo mascota,0,Ni idea!
+704,Entre 18 y 35 años,2.0,Cáceres,Conocer mi huella hídrica,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,A veces,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+705,Entre 18 y 35 años,1.0,Santa Cruz de Tenerife,Ayudar al ecosistema,Menos de 5 minutos,Menos de 3 veces,Friego a mano,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Menos de 10 €
+706,Entre 18 y 35 años,2.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,A veces,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+707,Entre 18 y 35 años,2.0,Barcelona,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,No,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Más de 40 €
+708,Entre 18 y 35 años,5.0,Segovia,Ayudar al ecosistema,Entre 5 y 10 minutos,Más de 5,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,A veces,1 vez al día,Menos de 100 km,No tengo mascota,0,Ni idea!
+709,Entre 18 y 35 años,3.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,Siempre,No,Siempre,Nunca!,No uso coche,Menos de 50 €,0,Entre 10€ y 40 €
+710,Entre 18 y 35 años,2.0,Segovia,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez al día,100 - 200 km,Menos de 50 €,50,Entre 10€ y 40 €
+711,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,Siempre,No,Siempre,1 vez al día,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+712,Entre 18 y 35 años,2.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+713,Entre 18 y 35 años,3.0,Gipuzkoa,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Ni idea!
+714,Entre 36 y 65 años,3.0,Cádiz,Ahorrar dinero,Entre 11 y 15 minutos,Más de 5,Friego a mano,No sabía que existía ese modo,No,Nunca!,1 vez cada 3 días,No uso coche,Menos de 50 €,0,Más de 40 €
+715,Entre 36 y 65 años,5.0,Asturias,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+716,Entre 36 y 65 años,5.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Entre 3 y 5 veces,1 vez al día,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez cada 3 días,100 - 200 km,Menos de 50 €,60,Más de 40 €
+717,Entre 18 y 35 años,4.0,Madrid,Conocer mi huella hídrica,Entre 11 y 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez al día,100 - 200 km,No tengo mascota,0,Más de 40 €
+718,Entre 36 y 65 años,2.0,Madrid,Conocer mi huella hídrica,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Si,Siempre,1 vez a la semana,No uso coche,No tengo mascota,0,Entre 10€ y 40 €
+719,Entre 18 y 35 años,4.0,Cantabria,Ahorrar agua,Menos de 5 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez cada 3 días,Menos de 100 km,Entre 50 y 100 €,0,Menos de 10 €
+720,Entre 18 y 35 años,2.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,Friego a mano,No sabía que existía ese modo,No,Siempre,1 vez al día,No uso coche,Menos de 50 €,0,Ni idea!
+721,Entre 18 y 35 años,5.0,Barcelona,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,1 vez al día,Siempre,No,Siempre,1 vez al día,No uso coche,No tengo mascota,0,Ni idea!
+722,Entre 36 y 65 años,2.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,No,Siempre,1 vez al día,No uso coche,Menos de 50 €,0,Ni idea!
+723,Entre 18 y 35 años,1.0,Almería,Conocer mi huella hídrica,Menos de 5 minutos,Menos de 3 veces,Friego a mano,Siempre,No,Siempre,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+724,Entre 18 y 35 años,4.0,Madrid,Conocer mi huella hídrica,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,No,A veces,1 vez al día,Menos de 100 km,Menos de 50 €,15,Más de 40 €
+725,Entre 18 y 35 años,2.0,Alicante,Ahorrar dinero,Más de 15 minutos,Menos de 3 veces,Friego a mano,Siempre,No,A veces,1 vez al día,Menos de 100 km,Menos de 50 €,300,Más de 40 €
+726,Entre 36 y 65 años,6.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Más de 5,1 vez al día,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,500,Más de 40 €
+727,Entre 36 y 65 años,2.0,Madrid,Ayudar al ecosistema,Entre 5 y 10 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Si,Siempre,1 vez cada 3 días,No uso coche,No tengo mascota,0,Ni idea!
+728,Entre 18 y 35 años,3.0,Madrid,Ahorrar dinero,Menos de 5 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,Siempre,Buena idea! Voy a probarlo!,Nunca!,1 vez a la semana,Menos de 100 km,No tengo mascota,0,Entre 10€ y 40 €
+729,Entre 36 y 65 años,4.0,Madrid,Ahorrar agua,Menos de 5 minutos,Menos de 3 veces,1 vez al día,A veces,No,Siempre,1 vez al día,100 - 200 km,Menos de 50 €,0,Más de 40 €
+730,Entre 18 y 35 años,3.0,Segovia,Conocer mi huella hídrica,Entre 5 y 10 minutos,Entre 3 y 5 veces,1 vez al día,Siempre,No,A veces,1 vez al día,No uso coche,Más de 100 €,0,Ni idea!
+731,Entre 36 y 65 años,1.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,No sabía que existía ese modo,Si,Siempre,1 vez al día,Menos de 100 km,Entre 50 y 100 €,10,Entre 10€ y 40 €
+732,Entre 36 y 65 años,4.0,Madrid,Ahorrar dinero,Más de 15 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,A veces,1 vez cada 3 días,Menos de 100 km,No tengo mascota,0,Más de 40 €
+733,Mayor de 65 años,1.0,A Coruña,Conocer mi huella hídrica,Entre 11 y 15 minutos,Más de 5,Friego a mano,A veces,Buena idea! Voy a probarlo!,Siempre,1 vez a la semana,Más de 200 km,Más de 100 €,100,Entre 10€ y 40 €
+734,Entre 36 y 65 años,4.0,Madrid,Ahorrar agua,Entre 5 y 10 minutos,Entre 3 y 5 veces,Entre 3 y 5 a la semana,A veces,No,Siempre,1 vez al día,Menos de 100 km,No tengo mascota,0,Ni idea!
+735,Entre 36 y 65 años,5.0,Madrid,Ahorrar dinero,Menos de 5 minutos,Más de 5,Entre 3 y 5 a la semana,No sabía que existía ese modo,No,Nunca!,1 vez a la semana,100 - 200 km,No tengo mascota,0,Entre 10€ y 40 €
+736,Entre 18 y 35 años,3.0,Madrid,Conocer mi huella hídrica,Entre 11 y 15 minutos,Menos de 3 veces,Entre 3 y 5 a la semana,A veces,Buena idea! Voy a probarlo!,A veces,1 vez al día,Más de 200 km,Entre 50 y 100 €,0,Entre 10€ y 40 €
+737,Entre 18 y 35 años,4.0,Madrid,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,A veces,No,Siempre,1 vez al día,Más de 200 km,No tengo mascota,0,Entre 10€ y 40 €
+738,Entre 36 y 65 años,5.0,Madrid,Ahorrar dinero,Entre 11 y 15 minutos,Entre 3 y 5 veces,Friego a mano,A veces,No,A veces,1 vez cada 3 días,No uso coche,No tengo mascota,0,Más de 40 €
+739,Entre 36 y 65 años,2.0,A Coruña,Ahorrar dinero,Entre 5 y 10 minutos,Menos de 3 veces,1 vez al día,A veces,No,Siempre,1 vez cada 3 días,Más de 200 km,Más de 100 €,0,Entre 10€ y 40 €
+740,Entre 36 y 65 años,2.0,Albacete,Ahorrar dinero,Entre 5 y 10 minutos,Entre 3 y 5 veces,Friego a mano,No sabía que existía ese modo,No,Nunca!,1 vez a la semana,100 - 200 km,Entre 50 y 100 €,0,Entre 10€ y 40 €
