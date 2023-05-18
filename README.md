@@ -48,6 +48,26 @@ git push --set-upstream origin my_name
 6. Create Pull Request
 7. Merge Pull Request to "develop" branch (default)
 
+
+## Copy certain file from develop to your branch:
+1. Make sure you are in your branch
+
+> **Note**
+> If the file is in a folder:
+
+~~~
+git checkout develop -- path/to/file
+~~~
+
+> **Note**
+> Assuming files are not in folder:
+
+~~~
+git checkout develop file_to_copy.ipynb
+~~~
+
+
+
 ## Members:
 
 * Noya
