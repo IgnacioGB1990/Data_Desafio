@@ -16,6 +16,7 @@ def man():
 
 
 # api/v2/resources/muchosbooks?id=1&id=2
+# data=2&data=1&data=0&data=0&data=0&data=0&data=0&data=1&data=0&data=0&data=1&data=1&data=0&data=0&data=1&data=1&data=0
 @app.route('/api/k-means/prediction', methods=['GET'])
 def api_data():
 
@@ -27,8 +28,9 @@ def api_data():
                 mis_datas = combinacion[1]
                 for mi_data in mis_datas:
                     results.append(int(mi_data))
-                    print(type(mi_data))
-                return jsonify(results)
+                    arr = np.array(results)
+                    pred = model.predict(arr)
+                return jsonify(pred)
 
 #     arr = np.array([[data1, data2, data3, data4]])
 #     pred = model.predict(arr)
