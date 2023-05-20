@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Gráficas de Huella Hídrica y Coste Diario</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    .chart-container {
+      width: 50%;
+      float: left;
+    }
+  </style>
+</head>
+<body>
+  <div class="chart-container">
+    <canvas id="huellaHidricaChart"></canvas>
+  </div>
+  <div class="chart-container">
+    <canvas id="costeDiarioChart"></canvas>
+  </div>
+
+  <script>
+    // Datos de las barras
+    var huella_hidrica_personal = 9122.70;
+    var huella_hidrica_espana = 7568.79;
+    var coste_diaria_personal = 226.04;
+    var coste_diaria_espana = 334.94;
+
+    // Configuración de los datos de huella hídrica
+    var nombres_huella = ['Tu huella hídrica', 'Huella hídrica media en España'];
+    var valores_huella = [huella_hidrica_personal, huella_hidrica_espana];
+
+    // Configuración de los datos de coste anual
+    var nombres_coste = ['Tu coste anual', 'Coste diario medio en España'];
+    var valores_coste = [coste_diaria_personal, coste_diaria_espana];
+
+    // Crear la configuración del gráfico de huella hídrica
+    var huellaHidricaConfig = {
+      type: 'bar',
+      data: {
+        labels: nombres_huella,
+        datasets: [
+          {
+            label: 'Huella hídrica',
+            data: valores_huella,
+            backgroundColor: 'blue'
+          }
+        ]
+      },
+      options: {
+        scales: {
+          y: {
+            beginAtZero: true,
+            title: {
+              display: true,
+              text: 'Litros/Año'
+            }
+          }
+        }
+      }
+    };
+
+    // Crear la configuración del gráfico de coste diario
+    var costeDiarioConfig = {
+      type: 'bar',
+      data: {
+        labels: nombres_coste,
+        datasets: [
+          {
+            label: 'Coste diario',
+            data: valores_coste,
+            backgroundColor: 'green'
+          }
+        ]
+      },
+      options: {
+        scales: {
+          y: {
+            beginAtZero: true,
+            title: {
+              display: true,
+              text: 'Coste/Año'
+            }
+          }
+        }
+      }
+    };
+
+    // Obtener el contexto del lienzo del gráfico de huella hídrica
+    var huellaHidricaCtx = document.getElementById('huellaHidricaChart').getContext('2d');
+    // Crear el gráfico de huella hídrica
+    var huellaHidricaChart = new Chart(huellaHidricaCtx, huellaHidricaConfig);
+
+    // Obtener el contexto del lienzo del gráfico de coste diario
+    var costeDiarioCtx = document.getElementById('costeDiarioChart').getContext('2d');
+    // Crear el gráfico de coste diario
+    var costeDiarioChart = new Chart(costeDiarioCtx, costeDiarioConfig);
+  </script>
+</body>
+</html>
+
