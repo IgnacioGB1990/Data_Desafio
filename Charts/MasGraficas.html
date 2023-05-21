@@ -50,7 +50,7 @@
 
     // Configuración inicial de los datos de huella hídrica y coste diario
     var huella_hidrica_espana = 7568.79;
-    var coste_diaria_espana = 334.94;
+    var coste_diaria_espana = 14456.39;
 
     // Crear la configuración del gráfico de huella hídrica
     var huellaHidricaConfig = {
@@ -59,7 +59,7 @@
         labels: ['Tu huella hídrica', 'Huella hídrica media en España'],
         datasets: [
           {
-            label: 'Huella hídrica',
+            label: 'Huella hídrica diaria',
             data: [0, huella_hidrica_espana],
             backgroundColor: 'blue'
           }
@@ -71,7 +71,7 @@
             beginAtZero: true,
             title: {
               display: true,
-              text: 'Litros/Año'
+              text: 'Litros'
             }
           }
         }
@@ -82,7 +82,7 @@
     var costeDiarioConfig = {
       type: 'bar',
       data: {
-        labels: ['Tu coste anual', 'Coste diario medio en España'],
+        labels: ['Tu coste diario', 'Coste diario medio en España'],
         datasets: [{
             label: 'Coste diario',
             data: [0, coste_diaria_espana],
@@ -96,7 +96,7 @@
                     beginAtZero: true,
                     title: {
                         display: true,
-                        text: 'Coste/Año'
+                        text: 'Euros'
                     }
                 }
             }
