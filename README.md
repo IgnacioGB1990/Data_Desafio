@@ -1,6 +1,10 @@
 # Data - Desafio de Tripulaciones
 
 
+## Project Summay - Water Footprint:
+
+Based on a meticulous tailored survey designed by the Data Team, we managed to gather over 1000+ surveys to get valuable insights of Spanish consumers water footprint.  
+
 ## Tasks:
 
 * Use Git/Github commands.
