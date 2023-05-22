@@ -3,7 +3,9 @@
 
 ## Project Summay - Water Footprint:
 
-Based on a meticulous tailored survey designed by the Data Team, we managed to gather over 1000+ surveys to get valuable insights of Spanish consumers water footprint.  
+Based on a meticulous tailored survey designed by the Data Team, we managed to gather over 1000+ surveys to get valuable insights of Spanish consumers water footprint. 
+
+Our Machine Learning model was oriented towards an **unsupervised classification** problem.
 
 ## Tasks:
 
