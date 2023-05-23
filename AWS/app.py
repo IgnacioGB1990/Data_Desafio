@@ -15,11 +15,11 @@ def man():
 # Updates
 
 
-# Tipo 0 (saver)
+# Tipo 0 (spender)
 # [2 0 0 1 1 0]
 # /api/k-means/prediction?data=2&data=0&data=0&data=1&data=1&data=0
 
-# Tipo 1 (spender)
+# Tipo 1 (saver)
 # [0 1 0 1 1 0]
 # /api/k-means/prediction?data=0&data=1&data=0&data=1&data=1&data=0
 @app.route('/api/k-means/prediction', methods=['GET'])
@@ -40,9 +40,9 @@ def api_data():
                 arr = np.array([results]).reshape(1, -1)
                 pred = model.predict(arr)
                 if pred[0]==0:
-                    value ="saver"
+                    value ="spender"
                 elif pred[0]==1:
-                    value="spender"
+                    value="saver"
                 else:
                     value="unknown"
                 return jsonify(value)
