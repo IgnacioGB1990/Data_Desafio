@@ -13,9 +13,9 @@ We found out the following inconvenients in other models:
 * **PCA:** initial preprocessing had to be made and complicated the process to deploy the model to AWS. 
 * **DBSCAN:** the model had to be fitted for each new data inserted.
 
-We initially decided to omit 2 out of the 15 survey questions purely by intuition to end up with 13 columns/features.
+We initially decided to omit 2 out of the 15 survey questions as features, purely by intuition, to end up with 13 columns/features.
 
-However, we created an algorithm to find out every possible combination with a threshold of 5 columns and ended up with 7,099 different possible combinations.
+In order to make a more technical approach, we opted to create an algorithm to find out every possible combination with a threshold of 5 features and ended up with 7,099 different possible combinations. We tested each combination in order to find the best possible outcome.
 
 
 
