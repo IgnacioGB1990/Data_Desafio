@@ -14,7 +14,7 @@ We initially decided to omit 2 out of the 15 survey questions purely by intuitio
 However, we created an algorithm to find out every possible combination with a threshold of 5 columns and ended up with 7,099 different possible combinations.
 
 We found out the following inconvenients in other models:
-* **PCA:** a lot of preprocessing had to be made.
+* **PCA:** initial preprocessing had to be made and complicated the process to deploy the model to AWS. 
 * **DBSCAN:** the model had to be fitted for each new data inserted.
 
 
