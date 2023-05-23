@@ -12,11 +12,16 @@ def man():
     # return render_template('home.html')
     return "<h2>THIS IS OUR K-MEANS HOME PAGE AND WE ARE ABOUT TO TEST OUR MODEL</h2>"
 
+# Updates
+
+
 # Tipo 0 (saver)
-# /api/k-means/prediction?data=2&data=1&data=0&data=0&data=0&data=0&data=0&data=1&data=0&data=0&data=1&data=1&data=0&data=0&data=1&data=1&data=0
+# [2 0 0 1 1 0]
+# /api/k-means/prediction?data=2&data=0&data=0&data=1&data=1&data=0
 
 # Tipo 1 (spender)
-# /api/k-means/prediction?data=0&data=0&data=0&data=1&data=0&data=1&data=1&data=1&data=1&data=1&data=0&data=1&data=0&data=1&data=0&data=0&data=1
+# [0 1 0 1 1 0]
+# /api/k-means/prediction?data=0&data=1&data=0&data=1&data=1&data=0
 @app.route('/api/k-means/prediction', methods=['GET'])
 def api_data():
 
