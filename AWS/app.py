@@ -13,6 +13,7 @@ def man():
     return "<h2>THIS IS OUR K-MEANS HOME PAGE AND WE ARE ABOUT TO TEST OUR MODEL</h2>"
 
 # Tipo 0 (saver)
+# [2 0 0 1 1 0]
 # /api/k-means/prediction?data=2&data=1&data=0&data=0&data=0&data=0&data=0&data=1&data=0&data=0&data=1&data=1&data=0&data=0&data=1&data=1&data=0
 
 # Tipo 1 (spender)
