@@ -1,4 +1,29 @@
-## Create your own branch:testing
+## Create Repository
+
+1. Create folder in your computer "Nacho"
+2. Drag folder a vs code.
+3. Open terminal (drag from bottom to top)
+4. Git init ( tenemos policia)
+5. Go to Github and create repository
+6. Create link between your computer and github
+
+
+~~~
+git status
+~~~
+
+~~~
+git add .
+~~~
+
+~~~
+git commit -m "My Commit Message"
+~~~
+
+
+
+## Create your own branch:
+
 
 1. Create a folder in your computer : Data_Desafio
 2. Open terminal and go inside folder Data_Desafio
