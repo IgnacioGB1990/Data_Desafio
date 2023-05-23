@@ -9,13 +9,15 @@ Our Machine Learning model was oriented towards an **unsupervised classification
 
 After trying and investigating the most popular algorithms we decided to opt for **K-means**.
 
+We found out the following inconvenients in other models:
+* **PCA:** initial preprocessing had to be made and complicated the process to deploy the model to AWS. 
+* **DBSCAN:** the model had to be fitted for each new data inserted.
+
 We initially decided to omit 2 out of the 15 survey questions purely by intuition to end up with 13 columns/features.
 
 However, we created an algorithm to find out every possible combination with a threshold of 5 columns and ended up with 7,099 different possible combinations.
 
-We found out the following inconvenients in other models:
-* **PCA:** initial preprocessing had to be made and complicated the process to deploy the model to AWS. 
-* **DBSCAN:** the model had to be fitted for each new data inserted.
+
 
 
 
