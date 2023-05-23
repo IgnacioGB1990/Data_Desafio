@@ -28,7 +28,7 @@ http://PUBLIC_AWS_IP/api/k-means/prediction?data=2&data=0&data=1&data=0&data=0&d
 
 Final:
 ~~~
-http://PUBLIC_AWS_IP/api/k-means/prediction?data=2&data=0&data=1&data=0&data=0&data=0&data
+http://PUBLIC_AWS_IP/api/k-means/prediction?data=2&data=0&data=1&data=0&data=0&data=0
 ~~~
 
 
