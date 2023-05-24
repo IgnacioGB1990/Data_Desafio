@@ -56,7 +56,7 @@ Links in the box below:
 - https://pubs.acs.org/doi/full/10.1021/es800367m
 - https://www.epa.gov/sites/default/files/2019-11/documents/2016_and_2017_facts_and_figures_data_tables_0.pdf
 ~~~
---!>
+-->
 Finally, we made a **clean dataframe** with all the insights of the survey and **calculations of the water footprint and the costs** of the footprint per person.
 
 ## Tableau 📊:
