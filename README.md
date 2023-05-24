@@ -46,6 +46,8 @@ Links in the box below:
 * <a href="https://www.watercalculator.org/wp-content/uploads/2020/04/WFC-Methodology-August-2020.pdf" target="blank">Pubs ACS</a>
 * <a href="https://www.watercalculator.org/wp-content/uploads/2020/04/WFC-Methodology-August-2020.pdf" target="blank">2016/17 facts and figures</a>
 
+
+<!--
 ~~~
 - https://www.watercalculator.org/wp-content/uploads/2020/04/WFC-Methodology-August-2020.pdf
 - https://www.epa.gov/watersense/showerheads
@@ -54,6 +56,7 @@ Links in the box below:
 - https://pubs.acs.org/doi/full/10.1021/es800367m
 - https://www.epa.gov/sites/default/files/2019-11/documents/2016_and_2017_facts_and_figures_data_tables_0.pdf
 ~~~
+--!>
 Finally, we made a **clean dataframe** with all the insights of the survey and **calculations of the water footprint and the costs** of the footprint per person.
 
 ## Tableau 📊:
