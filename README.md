@@ -29,7 +29,7 @@ In order to make a more technical approach, we opted to **create an algorithm (t
 * blabla
 
 **Cluster 1 - More water conscious:**
-* blabla
+* Greater concern for the ecosystem and water saving 
 *  blabla
 * blabla
 * blabla
