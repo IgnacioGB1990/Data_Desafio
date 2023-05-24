@@ -6,7 +6,7 @@ We have applied a ML model to address this **unsupervised classification** probl
 
 ## Project Summary - Water Footprint 💧:
 
-Based on a meticulous tailored <a href="https://form.typeform.com/to/zCsmiPAp">survey</a> designed by the Data Team, we managed to gather over **+1,000 surveys in 3 days** to get valuable insights of Spanish consumers water footprint. (more<a href="https://github.com/IgnacioGB1990/Data_Desafio/tree/develop/Typeform" target="blank"> details</a>)
+Based on a meticulous tailored <a target="_blank" href="https://form.typeform.com/to/zCsmiPAp">survey</a> designed by the Data Team, we managed to gather over **+1,000 surveys in 3 days** to get valuable insights of Spanish consumers water footprint. (more<a href="https://github.com/IgnacioGB1990/Data_Desafio/tree/develop/Typeform" target="blank"> details</a>)
 
 Our Machine Learning model was oriented towards an **unsupervised classification** problem.
 
