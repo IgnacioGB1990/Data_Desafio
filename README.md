@@ -19,7 +19,7 @@ In order to make a more technical approach, we opted to **create an algorithm (t
 
 ## Cluster Classification Results:
 
-**Cluster 0 - More water unconscious:**
+**Cluster 0 - Less water conscious:**
 * blabla
 * blabla
 * blabla
