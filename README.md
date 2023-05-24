@@ -25,14 +25,16 @@ In order to make a more technical approach, we opted to **create an algorithm (t
 **Cluster 0 - Less water conscious:**
 * Greater concern for economic savings
 * No water recycling
-* blabla
-* blabla
+* They recycle paper, glass, and plastic
+* Regular meat consumption
+* They do not have a garden
 
 **Cluster 1 - More water conscious:**
 * Greater concern for the ecosystem and water saving 
 * Water recycling
-* blabla
-* blabla
+* They do not recycle paper, glass, and plastic
+* Regular meat consumption
+* They do not have a garden
 
 ## Data 📈:
 
