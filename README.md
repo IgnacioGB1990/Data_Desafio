@@ -25,7 +25,7 @@ In order to make a more technical approach, we opted to **create an algorithm (t
 * blabla
 * blabla
 
-**Cluester 1:**
+**Cluster 1:**
 * blabla
 *  blabla
 * blabla
