@@ -39,12 +39,12 @@ The survey had to be **user-friendly**, so the answer buttons should have been w
 
 Links in the box below:
 
-<a href="https://www.watercalculator.org/wp-content/uploads/2020/04/WFC-Methodology-August-2020.pdf" target="blank">Water Calculator</a>
-<a href="https://www.watercalculator.org/wp-content/uploads/2020/04/WFC-Methodology-August-2020.pdf" target="blank">Showerheads</a>
-<a href="https://www.watercalculator.org/wp-content/uploads/2020/04/WFC-Methodology-August-2020.pdf" target="blank">Kitchen Laundry Guide</a>
-<a href="https://www.watercalculator.org/wp-content/uploads/2020/04/WFC-Methodology-August-2020.pdf" target="blank">Circle of Blue</a>
-<a href="https://www.watercalculator.org/wp-content/uploads/2020/04/WFC-Methodology-August-2020.pdf" target="blank">Pubs ACS</a>
-<a href="https://www.watercalculator.org/wp-content/uploads/2020/04/WFC-Methodology-August-2020.pdf" target="blank">2016/17 facts and figures</a>
+* <a href="https://www.watercalculator.org/wp-content/uploads/2020/04/WFC-Methodology-August-2020.pdf" target="blank">Water Calculator</a>
+* <a href="https://www.watercalculator.org/wp-content/uploads/2020/04/WFC-Methodology-August-2020.pdf" target="blank">Showerheads</a>
+* <a href="https://www.watercalculator.org/wp-content/uploads/2020/04/WFC-Methodology-August-2020.pdf" target="blank">Kitchen Laundry Guide</a>
+* <a href="https://www.watercalculator.org/wp-content/uploads/2020/04/WFC-Methodology-August-2020.pdf" target="blank">Circle of Blue</a>
+* <a href="https://www.watercalculator.org/wp-content/uploads/2020/04/WFC-Methodology-August-2020.pdf" target="blank">Pubs ACS</a>
+* <a href="https://www.watercalculator.org/wp-content/uploads/2020/04/WFC-Methodology-August-2020.pdf" target="blank">2016/17 facts and figures</a>
 
 ~~~
 - https://www.watercalculator.org/wp-content/uploads/2020/04/WFC-Methodology-August-2020.pdf
