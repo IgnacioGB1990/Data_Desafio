@@ -32,7 +32,7 @@ In order to make a more technical approach, we opted to **create an algorithm (t
 **Cluster 1 - More water conscious:**
 * Greater concern for the ecosystem and water saving 
 * Water recycling
-* They do not habitually recycle paper, glass and plastic
+* Do not usually recycle paper, glass and plastic
 * Regular meat consumption
 * They do not have a garden
 
