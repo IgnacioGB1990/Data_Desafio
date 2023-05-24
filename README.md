@@ -21,7 +21,7 @@ In order to make a more technical approach, we opted to **create an algorithm (t
 
 The rough task of extracting data of water footprint due to the lack of specified information lead the Data Team to design a survey in order to reach valuable data of Spanish consumers and make an unsupervised ML model.
 
-The survey had to be user-friendly, so the answer buttons should have been with words, mostly. Due to the fact that the model needed to have numerical features, the Data Team managed to convert the answers to numbers defining a bunch of functions with calculations. We made a research and based our calculations from several papers from UNESCO and researchs in USA. This calculus for converting data are made with the latest and best available data we found at this time. In some cases, we have used data that looked at personal water use based on individual behaviors. In other cases, we took data to calculate individual water use. This effort points out that there is a lack of consistent, high quality water-use data collected globally, so the results must be viewed with this in mind.
+The survey had to be **user-friendly**, so the answer buttons should have been with words, mostly. Due to the fact that the model needed to have numerical features, the Data Team managed to **convert the answers** to numbers defining a bunch of **functions with calculations**. We made a research and based our calculations from several papers from UNESCO and researchs in USA. This calculus for converting data are made with the **latest and best available data** we found at this time. In some cases, we have used data that looked at personal water use based on individual behaviors. In other cases, we took data to calculate individual water use. This effort points out that there is a lack of consistent, high quality water-use data collected globally, so the results must be viewed with this in mind.
 
 Links in the box below:
 ~~~
@@ -32,7 +32,7 @@ Links in the box below:
 - https://pubs.acs.org/doi/full/10.1021/es800367m
 - https://www.epa.gov/sites/default/files/2019-11/documents/2016_and_2017_facts_and_figures_data_tables_0.pdf
 ~~~
-Finally, we made a clean dataframe with all the insights of the survey and calculations of the water footprint and the costs of the footprint per person.
+Finally, we made a **clean dataframe** with all the insights of the survey and **calculations of the water footprint and the costs** of the footprint per person.
 
 ## Tableau:
 
