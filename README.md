@@ -1,7 +1,7 @@
 # Data - Desafio de Tripulaciones
 
 
-## Project Summary - Water Footprint:
+## Project Summary - Water Footprint 💧:
 
 Based on a meticulous tailored survey designed by the Data Team, we managed to gather over **+1,000 surveys in 3 days** to get valuable insights of Spanish consumers water footprint.
 
@@ -17,7 +17,7 @@ We initially decided to omit 2 out of the 15 survey questions as features, purel
 
 In order to make a more technical approach, we opted to **create an algorithm (took 71 mins!) to find out every possible combination** with a threshold of 5 features and ended up with 7,099 different possible combinations. We tested each combination in order to find the best possible outcome by measuring the **inertia and silhouette scores with 2 clusters.** Our optimal combination was reduced to 5 features. 
 
-## Cluster Classification Results:
+## Cluster Classification Results 👥:
 
 **Cluster 0 - Less water conscious:**
 * blabla
@@ -31,7 +31,7 @@ In order to make a more technical approach, we opted to **create an algorithm (t
 * blabla
 * blabla
 
-## Data:
+## Data 📈:
 
 The rough task of extracting data of water footprint due to the lack of specified information lead the Data Team to design a survey in order to reach valuable data of Spanish consumers and make an unsupervised ML model.
 
@@ -48,7 +48,7 @@ Links in the box below:
 ~~~
 Finally, we made a **clean dataframe** with all the insights of the survey and **calculations of the water footprint and the costs** of the footprint per person.
 
-## Tableau:
+## Tableau 📊:
 
 A comprehensive analysis has been performed on the users' interests according to their age, using  collected data from the questionnaire. This analysis has been displayed through a dashboard located within the designated Tableau folder. This analysis shows that, in general, young people are more concerned about economic issues than older people.
 
