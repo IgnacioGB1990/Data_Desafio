@@ -17,6 +17,20 @@ We initially decided to omit 2 out of the 15 survey questions as features, purel
 
 In order to make a more technical approach, we opted to **create an algorithm (took 71 mins!) to find out every possible combination** with a threshold of 5 features and ended up with 7,099 different possible combinations. We tested each combination in order to find the best possible outcome by measuring the **inertia and silhouette scores with 2 clusters.** Our optimal combination was reduced to 5 features. 
 
+## Cluster Classification Results:
+
+**Cluster 0:**
+* blabla
+* blabla
+* blabla
+* blabla
+
+**Cluester 1:**
+* blabla
+*  blabla
+* blabla
+* blabla
+
 ## Data:
 
 The rough task of extracting data of water footprint due to the lack of specified information lead the Data Team to design a survey in order to reach valuable data of Spanish consumers and make an unsupervised ML model.
