@@ -2,7 +2,9 @@
 
 The **goal** of this project is to calculate the water footprint of Spanish consumers and help them **reduce it** by giving them tailored advice.
 
-We have applied a ML model to address this **unsupervised classification** problem and clustered the consumers into **two groups.** 
+In order to classify consumers into **two groups** we have applied **ML unsupervised  algorithms** suited for this task.
+
+
 
 ## Project Summary - Water Footprint 💧:
 
