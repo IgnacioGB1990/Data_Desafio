@@ -1,9 +1,9 @@
 # Data - Desafio de Tripulaciones
 
 
-## Project Summary - Water Footprint:
+## Project Summary - Water Footprint 💧:
 
-Based on a meticulous tailored survey designed by the Data Team, we managed to gather over **+1,000 surveys** to get valuable insights of Spanish consumers water footprint. 
+Based on a meticulous tailored survey designed by the Data Team, we managed to gather over **+1,000 surveys in 3 days** to get valuable insights of Spanish consumers water footprint.
 
 Our Machine Learning model was oriented towards an **unsupervised classification** problem.
 
@@ -15,15 +15,37 @@ We found out the following inconvenients in other models:
 
 We initially decided to omit 2 out of the 15 survey questions as features, purely by intuition, to end up with 13 columns/features.
 
-In order to make a more technical approach, we opted to **create an algorithm (took 71 mins!) to find out every possible combination** with a threshold of 5 features and ended up with 7,099 different possible combinations. We tested each combination in order to find the best possible outcome by measuring the **inertia and silhouette scores with 2 clusters.** Our final best combination was reduced to 5 features. 
+In order to make a more technical approach, we opted to **create an algorithm (took 71 mins!) to find out every possible combination** with a threshold of 5 features and ended up with 7,099 different possible combinations. We tested each combination in order to find the best possible outcome by measuring the **inertia and silhouette scores with 2 clusters.** Our optimal combination was reduced to 5 features. 
 
-## Data:
+## Cluster Classification Results 👥:
+
+**Cluster 0 - Less water conscious:**
+* blabla
+* blabla
+* blabla
+* blabla
+
+**Cluster 1 - More water conscious:**
+* blabla
+*  blabla
+* blabla
+* blabla
+
+## Data 📈:
 
 The rough task of extracting data of water footprint due to the lack of specified information lead the Data Team to design a survey in order to reach valuable data of Spanish consumers and make an unsupervised ML model.
 
-The survey had to be user-friendly, so the answer buttons should have been with words, mostly. Due to the fact that the model needed to have numerical features, the Data Team managed to convert the answers to numbers defining a bunch of functions with calculations. We made a research and based our calculations from several papers from UNESCO and researchs in USA. This calculus for converting data are made with the latest and best available data we found at this time. In some cases, we have used data that looked at personal water use based on individual behaviors. In other cases, we took data to calculate individual water use. This effort points out that there is a lack of consistent, high quality water-use data collected globally, so the results must be viewed with this in mind.
+The survey had to be **user-friendly**, so the answer buttons should have been with words, mostly. Due to the fact that the model needed to have numerical features, the Data Team managed to **convert the answers** to numbers defining a bunch of **functions with calculations**. We made a research and based our calculations from several papers from UNESCO and researchs in USA. This calculus for converting data are made with the **latest and best available data** we found at this time. In some cases, we have used data that looked at personal water use based on individual behaviors. In other cases, we took data to calculate individual water use. This effort points out that there is a lack of consistent, high quality water-use data collected globally, so the results must be viewed with this in mind.
 
 Links in the box below:
+
+<a href="https://www.watercalculator.org/wp-content/uploads/2020/04/WFC-Methodology-August-2020.pdf" target="blank">Water Calculator</a>
+<a href="https://www.watercalculator.org/wp-content/uploads/2020/04/WFC-Methodology-August-2020.pdf" target="blank">Showerheads</a>
+<a href="https://www.watercalculator.org/wp-content/uploads/2020/04/WFC-Methodology-August-2020.pdf" target="blank">Kitchen Laundry Guide</a>
+<a href="https://www.watercalculator.org/wp-content/uploads/2020/04/WFC-Methodology-August-2020.pdf" target="blank">Circle of Blue</a>
+<a href="https://www.watercalculator.org/wp-content/uploads/2020/04/WFC-Methodology-August-2020.pdf" target="blank">Pubs ACS</a>
+<a href="https://www.watercalculator.org/wp-content/uploads/2020/04/WFC-Methodology-August-2020.pdf" target="blank">2016/17 facts and figures</a>
+
 ~~~
 - https://www.watercalculator.org/wp-content/uploads/2020/04/WFC-Methodology-August-2020.pdf
 - https://www.epa.gov/watersense/showerheads
@@ -32,9 +54,9 @@ Links in the box below:
 - https://pubs.acs.org/doi/full/10.1021/es800367m
 - https://www.epa.gov/sites/default/files/2019-11/documents/2016_and_2017_facts_and_figures_data_tables_0.pdf
 ~~~
-Finally, we made a clean dataframe with all the insights of the survey and calculations of the water footprint and the costs of the footprint per person.
+Finally, we made a **clean dataframe** with all the insights of the survey and **calculations of the water footprint and the costs** of the footprint per person.
 
-## Tableau:
+## Tableau 📊:
 
 A comprehensive analysis has been performed on the users' interests according to their age, using  collected data from the questionnaire. This analysis has been displayed through a dashboard located within the designated Tableau folder. This analysis shows that, in general, young people are more concerned about economic issues than older people.
 
