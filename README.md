@@ -59,6 +59,7 @@ Links in the box below:
 -->
 Finally, we made a **clean dataframe** with all the insights of the survey and **calculations of the water footprint and the costs** of the footprint per person.
 
+
 ## Tableau 📊:
 
 A comprehensive analysis has been performed on the users' interests according to their age, using  collected data from the questionnaire. This analysis has been displayed through a dashboard located within the designated Tableau folder. This analysis shows that, in general, young people are more concerned about economic issues than older people.
