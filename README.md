@@ -23,7 +23,7 @@ In order to make a more technical approach, we opted to **create an algorithm (t
 ## Cluster Classification Results 👥:
 
 **Cluster 0 - Less water conscious:**
-* blabla
+* Greater concern for economic savings
 * blabla
 * blabla
 * blabla
