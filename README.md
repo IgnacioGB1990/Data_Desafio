@@ -24,13 +24,13 @@ In order to make a more technical approach, we opted to **create an algorithm (t
 
 **Cluster 0 - Less water conscious:**
 * Greater concern for economic savings
-* blabla
+* No water recycling
 * blabla
 * blabla
 
 **Cluster 1 - More water conscious:**
 * Greater concern for the ecosystem and water saving 
-*  blabla
+* Water recycling
 * blabla
 * blabla
 
