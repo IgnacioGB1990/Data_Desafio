@@ -1,6 +1,6 @@
 # Data - Desafio de Tripulaciones
 
-The **goal** of this project is to calculate the water footprint of Spanish consumers and help them **reduce it** with advice depending on which group they belong.
+The **goal** of this project is to calculate the water footprint of Spanish consumers and help them **reduce it** by giving them tailored advice depending on their group.
 
 We have applied a ML model to address this **unsupervised classification** problem and clustered the consumers into **two groups.** 
 
