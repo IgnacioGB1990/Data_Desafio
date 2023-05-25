@@ -78,9 +78,11 @@ Finally, we made a **clean dataframe** with all the insights of the survey and *
 
 A comprehensive analysis has been performed on the users' interests according to their age, using  collected data from the questionnaire. This analysis has been displayed through a dashboard located within the designated Tableau folder. This analysis shows that, in general, **young people are more concerned about economic issues than older people.**
 
-## Deploy ML model to AWS ☁️:
+## Deploy ML model and database to AWS ☁️:
 
-We decided it was a great approach to reduce from 13 features to 5 as it simplified our endpoint and made it less prone to errors.
+Our URL does 2 things:
+
+* **Predict consumer Cluster:**
 
 Initial:
 ~~~
@@ -91,6 +93,10 @@ Final:
 ~~~
 http://PUBLIC_AWS_IP/api/k-means/prediction?data=2&data=0&data=1&data=0&data=0&data=0
 ~~~
+
+* **Store information in an RDS Database:**
+
+
 
 
 > **Note**
