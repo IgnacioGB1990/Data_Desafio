@@ -34,7 +34,7 @@ In order to make a more technical approach, we opted to **create an algorithm (t
 
 The **first step** before creating a ML model is to **monitor our data**. Monitoring allows us to assess the **quality and cleanliness** of the dataset, helps ensure that the dataset contains **all the necessary variables and features required for training**, allows us to understand the **distribution of the data across different variables** and helps in evaluating the **performance of the ML model during training and testing phases**. We used the <a href="https://www.evidentlyai.com/" target="blank">Evidently</a> library for Python to create the monitoring architecture and measure **drift.**
 
-**Drift** refers to a change in the statistical properties of the data over time. It occurs when the underlying data distribution used to train a machine **learning model changes** in some way, leading to a **degradation** in model performance.
+**Drift** refers to a change in the statistical properties of the data over time. It occurs when the underlying data distribution used to train a machine learning **model changes** in some way, leading to a **degradation** in model performance.
 
 ![Monitoring](https://github.com/IgnacioGB1990/Data_Desafio/assets/122172490/e0e66fc6-2cc4-4aef-b445-808b41f36879)
 ![Monitoring2](https://github.com/IgnacioGB1990/Data_Desafio/assets/122172490/de1609c5-bc6d-46e9-8ab0-0d9650d39f93)
