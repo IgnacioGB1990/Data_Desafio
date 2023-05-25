@@ -86,12 +86,12 @@ Our URL (EC2):
 http://PUBLIC_AWS_IP/api/k-means/prediction?data=2&data=0&data=1&data=0&data=0&data=0
 ~~~
 
-Does 2 things:
+Does 2 things once a user fills a survey in our Web App:
 
-1. **Predict consumer cluster:**
+1. **Predict consumer cluster.**
 
 
-2. **Store information in an RDS Database:**
+2. **Store information in an RDS Database.**
 
 ## Members:
 
