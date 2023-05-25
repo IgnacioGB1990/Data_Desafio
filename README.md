@@ -1,4 +1,4 @@
-# Desafio de Tripulaciones (Data) - Project Blue
+# Desafío de Tripulaciones (Data) - Project Blue
 
 <a href="https://lahuelladelagua.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://assets-news.housing.com/news/wp-content/uploads/2021/06/14175932/A-guide-to-water-conservation-methods-and-its-importance-FB-1200x700-compressed.jpg" alt="water" /> </a>
 
