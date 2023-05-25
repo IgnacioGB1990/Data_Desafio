@@ -29,6 +29,14 @@ We initially decided to omit 2 out of the 15 survey questions as features, purel
 
 In order to make a more technical approach, we opted to **create an algorithm (took 71 mins!) to find out every possible combination** with a threshold of 5 features and ended up with 7,099 different possible combinations. We tested each combination in order to find the best possible outcome by measuring the **inertia and silhouette scores with 2 clusters.** Our optimal combination was reduced to 5 features. 
 
+
+## Monitoring the data 📊:
+
+The first step before creating a ML model is to monitor our data. Monitoring allows us to assess the quality and cleanliness of the dataset, helps ensure that the dataset contains all the necessary variables and features required for training, allows us to understand the distribution of the data across different variables and helps in evaluating the performance of the ML model during training and testing phases. We used the Evidently.ai library for Python to create the monitoring architecture.
+
+![Monitoring](https://github.com/IgnacioGB1990/Data_Desafio/assets/122172490/e0e66fc6-2cc4-4aef-b445-808b41f36879)
+![Monitoring2](https://github.com/IgnacioGB1990/Data_Desafio/assets/122172490/de1609c5-bc6d-46e9-8ab0-0d9650d39f93)
+
 ## Cluster Classification Results 👥:
 
 **Cluster 0 - Less water conscious:**
