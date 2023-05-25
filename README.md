@@ -3,8 +3,6 @@
 <a href="https://lahuelladelagua.netlify.app/" > <img src="https://github.com/IgnacioGB1990/Data_Desafio/assets/55360078/f9c42553-192e-4d8e-a1b1-ca452c81cd59" alt="be" /> </a>
 
 
-<a href="https://lahuelladelagua.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcLvbxmpfNrJLidlOu0D6BbXG8Y3KaqR2a8g&usqp=CAU" alt="water" /> </a>
-
 The **goal** of this project is to calculate the water footprint of Spanish consumers and help them **reduce it** by giving them tailored advice.
 
 We decided to classify consumers into **two groups** and applied **unsupervised machine learning algorithms** suited for this task.
