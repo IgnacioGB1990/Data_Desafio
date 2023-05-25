@@ -1,4 +1,4 @@
-# Desafío de Tripulaciones (Data) - <a href="https://lahuelladelagua.netlify.app" target="blank">Project Blue</a>
+# Desafío de Tripulaciones (Data) - Project <a href="https://lahuelladelagua.netlify.app" target="blank">Blue</a>
 <img src="https://github.com/IgnacioGB1990/Data_Desafio/assets/55360078/f9c42553-192e-4d8e-a1b1-ca452c81cd59" alt="be" />
 
 <!--
