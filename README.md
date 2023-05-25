@@ -32,7 +32,7 @@ In order to make a more technical approach, we opted to **create an algorithm (t
 
 ## Monitoring the data 📊:
 
-The **first step** before creating a ML model is to **monitor our data**. Monitoring allows us to assess the **quality and cleanliness** of the dataset, helps ensure that the dataset contains **all the necessary variables and features required for training**, allows us to understand the **distribution of the data across different variables** and helps in evaluating the **performance of the ML model during training and testing phases**. We used the <a href="https://www.evidentlyai.com/" target="blank">Evidently.io</a> library for Python to create the monitoring architecture and measure **drift.**
+The **first step** before creating a ML model is to **monitor our data**. Monitoring allows us to assess the **quality and cleanliness** of the dataset, helps ensure that the dataset contains **all the necessary variables and features required for training**, allows us to understand the **distribution of the data across different variables** and helps in evaluating the **performance of the ML model during training and testing phases**. We used the <a href="https://www.evidentlyai.com/" target="blank">EvidentlyAI</a> library for Python to create the monitoring architecture and measure **drift.**
 
 **Drift** refers to a change in the statistical properties of the data over time.
 
