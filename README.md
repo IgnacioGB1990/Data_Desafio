@@ -93,19 +93,6 @@ Does 2 things:
 
 2. **Store information in an RDS Database:**
 
-
-
-
-> **Note**
-> You will see more params than mentioned in url due to some categorial feautures are one-hot encoded
-
-
-
-
-
-
-
-
 ## Members:
 
 * Noya
