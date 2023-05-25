@@ -88,7 +88,7 @@ http://PUBLIC_AWS_IP/api/k-means/prediction?data=2&data=0&data=1&data=0&data=0&d
 
 Does 2 things:
 
-1. **Predict consumer Cluster:**
+1. **Predict consumer cluster:**
 
 
 2. **Store information in an RDS Database:**
