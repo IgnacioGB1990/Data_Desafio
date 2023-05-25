@@ -1,11 +1,13 @@
 # Data - Desafio de Tripulaciones
 
+<a href="https://lahuelladelagua.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://assets-news.housing.com/news/wp-content/uploads/2021/06/14175932/A-guide-to-water-conservation-methods-and-its-importance-FB-1200x700-compressed.jpg" alt="water" /> </a>
+
 The **goal** of this project is to calculate the water footprint of Spanish consumers and help them **reduce it** by giving them tailored advice.
 
 In order to classify consumers into **two groups** we have applied **unsupervised machine learning algorithms** suited for this task.
 
 
-<a href="https://lahuelladelagua.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://assets-news.housing.com/news/wp-content/uploads/2021/06/14175932/A-guide-to-water-conservation-methods-and-its-importance-FB-1200x700-compressed.jpg" alt="water" /> </a>
+
 
 
 ## Project Summary - Water Footprint 💧:
