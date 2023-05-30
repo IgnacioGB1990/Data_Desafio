@@ -90,7 +90,7 @@ A comprehensive analysis has been performed on the users' interests according to
 
 ## Deploy ML Model and Database (RDS) to AWS ☁️:
 
-Our URL (EC2):
+Our API:
 
 ~~~
 http://PUBLIC_AWS_IP/api/k-means/prediction?data=2&data=0&data=1&data=0&data=0&data=0
